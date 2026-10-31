@@ -26,13 +26,37 @@ A detective named Fix, who thinks Fogg robbed the Bank of England, follows them.
 
 Fix arrests Fogg in Liverpool, and he reaches London five minutes late. Ruined, he and Aouda agree to marry. Then Passepartout discovers they gained a day by travelling east, and Fogg races to the club and wins.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Phileas Fogg]
+
+**Phileas Fogg.** A precise, calm, very private Englishman.
+
+[Character card pops up: Passepartout]
+
+**Passepartout.** His cheerful French servant, a former acrobat and fireman.
+
+[Character card pops up: Aouda]
+
+**Aouda.** A brave, educated young woman Fogg rescues in India.
+
+[Character card pops up: Detective Fix]
+
+**Detective Fix.** A policeman who wrongly suspects Fogg of robbery.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "The Eighty-First Day." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE WAGER]
 
@@ -86,27 +110,11 @@ Nobody in London understood it. But then, nobody in London had met Aouda.
 
 Mr Fogg and Aouda were married on the Monday, as planned. They sold the house in Savile Row and moved to a smaller one with a garden, in a quiet square. Mr Fogg had very little money left, but to his surprise, he didn't mind. He took a job keeping accounts at a shipping office, where his love of exact numbers made him very useful.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Phileas Fogg]
-
-**Phileas Fogg.** A precise, calm, very private Englishman.
-
-[Character card pops up: Passepartout]
-
-**Passepartout.** His cheerful French servant, a former acrobat and fireman.
-
-[Character card pops up: Aouda]
-
-**Aouda.** A brave, educated young woman Fogg rescues in India.
-
-[Character card pops up: Detective Fix]
-
-**Detective Fix.** A policeman who wrongly suspects Fogg of robbery.
 
 ## The big ideas
 
@@ -119,6 +127,10 @@ Mr Fogg and Aouda were married on the Monday, as planned. They sold the house in
 **Character beneath the surface.** Aouda sees Fogg's kindness under his calm.
 
 **What's worth winning.** Verne asks whether the trip was worth it. Our story answers differently.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

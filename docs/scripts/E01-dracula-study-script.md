@@ -26,43 +26,9 @@ The Count sails to England on a Russian ship called the *Demeter*. It crashes on
 
 Dr John Seward sends for his old teacher, Professor Abraham Van Helsing. With Lucy's friends, and with Mina's careful notes, they track down the boxes one by one and make them useless to the Count. In the end they follow him home to Transylvania.
 
-[Beat. Music sting.]
+[upbeat]
 
-## The story, chapter by chapter
-
-[storytelling, warm but lively]
-
-Now for the story. Our sleep story for this book is called "Mina Keeps Watch." Here's how it unfolds, chapter by chapter.
-
-[Chapter card flips in: THE STORM AT WHITBY]
-
-Chapter one. The Storm at Whitby.
-
-Mina Murray is spending the summer in Whitby with her best friend, Lucy Westenra. Every afternoon they sit on a bench in the churchyard on the East Cliff, below the ruined abbey, and Mina writes in her journal. She's worried, because her fiancé, Jonathan, has stopped writing from Transylvania.
-
-On the night of the eighth of August, a great storm blows in. A Russian ship, the *Demeter*, runs aground below the cliff with her captain dead at the wheel. A huge dog leaps ashore and vanishes up the cliff.
-
-[Chapter card flips in: THE CAPTAIN'S LOG]
-
-Chapter two. The Captain's Log.
-
-The newspaper prints the captain's log. In the book, Mina finds it sad and turns the page. Tonight, she reads it twice and makes a list. The cargo was fifty boxes of earth, sent to a solicitor on the Crescent, a few doors from where she's staying.
-
-She puts on her hat and gloves, visits him, and learns the boxes are going by train to Carfax, near London. It's the house Jonathan went abroad to sell, right next to Dr Seward's hospital. Mina writes to Dr Seward, and that night she ties Lucy's door key to her own wrist.
-
-[Chapter card flips in: FIFTY BOXES]
-
-Chapter three. Fifty Boxes.
-
-Dr Seward sends for his old teacher, Professor Van Helsing, who comes at once. He reads Mina's notes and hangs garlic flowers around Lucy's window, and Lucy sleeps safely.
-
-Then the friends go to Carfax and find all fifty boxes together in the old chapel. Van Helsing crumbles a little holy bread into each one. In the book, that's how the earth is made useless to the Count. Mina checks every box against her list, and when they reach the last one, she draws a neat line under the column. Fifty. That's all of them.
-
-[Chapter card flips in: THE LAST PAGE]
-
-The Last Page.
-
-The Count arrives to find nowhere to rest, and quietly leaves England on the ship the *Czarina Catherine*. Lucy marries Arthur, and Mina goes to Budapest to marry Jonathan, just as she does in the book. The next summer, they sit together on the bench above Whitby, and Mina shows him her list.
+Next, who's who, so you can keep everyone straight.
 
 [Beat. Music sting.]
 
@@ -94,6 +60,48 @@ The Count arrives to find nowhere to rest, and quietly leaves England on the shi
 
 **Count Dracula.** An ancient nobleman from Transylvania who travels to England with boxes of his own soil.
 
+## The story, chapter by chapter
+
+[storytelling, warm but lively]
+
+Now for the story. Here's how it unfolds, chapter by chapter.
+
+[Chapter card flips in: THE STORM AT WHITBY]
+
+Chapter one. The Storm at Whitby.
+
+Mina Murray is spending the summer in Whitby with her best friend, Lucy Westenra. Every afternoon they sit on a bench in the churchyard on the East Cliff, below the ruined abbey, and Mina writes in her journal. She's worried, because her fiancé, Jonathan, has stopped writing from Transylvania.
+
+On the night of the eighth of August, a great storm blows in. A Russian ship, the *Demeter*, runs aground below the cliff with her captain dead at the wheel. A huge dog leaps ashore and vanishes up the cliff.
+
+[Chapter card flips in: THE CAPTAIN'S LOG]
+
+Chapter two. The Captain's Log.
+
+The newspaper prints the captain's log. In the book, Mina finds it sad and turns the page. Tonight, she reads it twice and makes a list. The cargo was fifty boxes of earth, sent to a solicitor on the Crescent, a few doors from where she's staying.
+
+She puts on her hat and gloves, visits him, and learns the boxes are going by train to Carfax, near London. It's the house Jonathan went abroad to sell, right next to Dr Seward's hospital. Mina writes to Dr Seward, and that night she ties Lucy's door key to her own wrist.
+
+[Chapter card flips in: FIFTY BOXES]
+
+Chapter three. Fifty Boxes.
+
+Dr Seward sends for his old teacher, Professor Van Helsing, who comes at once. He reads Mina's notes and hangs garlic flowers around Lucy's window, and Lucy sleeps safely.
+
+Then the friends go to Carfax and find all fifty boxes together in the old chapel. Van Helsing crumbles a little holy bread into each one. In the book, that's how the earth is made useless to the Count. Mina checks every box against her list, and when they reach the last one, she draws a neat line under the column. Fifty. That's all of them.
+
+[Chapter card flips in: THE LAST PAGE]
+
+The Last Page.
+
+The Count arrives to find nowhere to rest, and quietly leaves England on the ship the *Czarina Catherine*. Lucy marries Arthur, and Mina goes to Budapest to marry Jonathan, just as she does in the book. The next summer, they sit together on the bench above Whitby, and Mina shows him her list.
+
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
+[Beat. Music sting.]
+
 ## The big ideas
 
 [curious]
@@ -105,6 +113,10 @@ The Count arrives to find nowhere to rest, and quietly leaves England on the shi
 **Old and new.** The Count is ancient, but his hunters use trains, telegrams, typewriters and shorthand. Modern tools help them win.
 
 **Teamwork.** No one in the book wins alone. The friends succeed by sharing what they know.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

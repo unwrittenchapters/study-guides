@@ -26,13 +26,37 @@ Ellen is honest and unconventional, and Newland falls in love with her. He asks 
 
 Decades pass. After May's death, Newland's son Dallas takes him to Paris and tells him May always knew he'd given up the thing he wanted most. Outside Ellen's apartment, Newland sits on a bench, decides not to go up, and walks away.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Newland Archer]
+
+**Newland Archer.** A thoughtful young lawyer bound by society's rules.
+
+[Character card pops up: May Welland]
+
+**May Welland.** His sweet, proper fiancée, later his wife.
+
+[Character card pops up: Countess Ellen Olenska]
+
+**Countess Ellen Olenska.** May's cousin, honest and independent.
+
+[Character card pops up: Dallas Archer]
+
+**Dallas Archer.** Newland's modern, cheerful eldest son.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Newland Goes Up." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE OPERA]
 
@@ -90,27 +114,11 @@ They sat in two chairs by the open window, with the evening and the sounds of th
 
 For a long time they said very little. They'd never needed to say much. She asked about his children. He told her about May, and what Dallas had told him on the walk. She listened with wet eyes, and she said May had been braver than any of them.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Newland Archer]
-
-**Newland Archer.** A thoughtful young lawyer bound by society's rules.
-
-[Character card pops up: May Welland]
-
-**May Welland.** His sweet, proper fiancée, later his wife.
-
-[Character card pops up: Countess Ellen Olenska]
-
-**Countess Ellen Olenska.** May's cousin, honest and independent.
-
-[Character card pops up: Dallas Archer]
-
-**Dallas Archer.** Newland's modern, cheerful eldest son.
 
 ## The big ideas
 
@@ -123,6 +131,10 @@ For a long time they said very little. They'd never needed to say much. She aske
 **Change over time.** The world of the 1870s fades into telephones and motor cars.
 
 **Second chances.** Our story imagines a door left open.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

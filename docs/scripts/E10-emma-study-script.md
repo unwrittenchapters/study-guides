@@ -26,13 +26,41 @@ Harriet is loved by Robert Martin, a decent young farmer. Emma talks her out of 
 
 Her old friend Mr Knightley is the only person who tells her when she's wrong. After she's cruel to poor Miss Bates, his scolding helps her grow up. Harriet marries Robert Martin after all, and Emma realises she loves Mr Knightley.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Emma Woodhouse]
+
+**Emma Woodhouse.** Clever, confident and often wrong about other people.
+
+[Character card pops up: Mr Knightley]
+
+**Mr Knightley.** An honest family friend who isn't afraid to correct her.
+
+[Character card pops up: Harriet Smith]
+
+**Harriet Smith.** Emma's sweet, shy young friend.
+
+[Character card pops up: Robert Martin]
+
+**Robert Martin.** A kind young farmer who loves Harriet.
+
+[Character card pops up: Mr Woodhouse]
+
+**Mr Woodhouse.** Emma's gentle, worried father.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Emma Listens." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE MATCHMAKER]
 
@@ -92,31 +120,11 @@ The rain had stopped, and everything smelled of wet leaves. They walked up and d
 
 Mr Knightley laughed. Then he stopped walking and looked at her, and he spoke in a different voice. "That was well done, Emma. That was very well done."
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Emma Woodhouse]
-
-**Emma Woodhouse.** Clever, confident and often wrong about other people.
-
-[Character card pops up: Mr Knightley]
-
-**Mr Knightley.** An honest family friend who isn't afraid to correct her.
-
-[Character card pops up: Harriet Smith]
-
-**Harriet Smith.** Emma's sweet, shy young friend.
-
-[Character card pops up: Robert Martin]
-
-**Robert Martin.** A kind young farmer who loves Harriet.
-
-[Character card pops up: Mr Woodhouse]
-
-**Mr Woodhouse.** Emma's gentle, worried father.
 
 ## The big ideas
 
@@ -129,6 +137,10 @@ Mr Knightley laughed. Then he stopped walking and looked at her, and he spoke in
 **Growing up.** Emma is nearly twenty-one but still has a lot to learn.
 
 **Honest friendship.** Mr Knightley shows that a true friend tells you the truth.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

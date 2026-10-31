@@ -26,13 +26,45 @@ Bingley falls for the eldest daughter, Jane. His proud friend Mr Darcy insults t
 
 Darcy proposes, and Elizabeth turns him down angrily. He writes her a letter explaining the truth about Wickham. Slowly each of them sees their own pride and prejudice, and when Darcy quietly saves her family from scandal, she realises she loves him.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Elizabeth Bennet]
+
+**Elizabeth Bennet.** Clever and quick to judge. She's the second of five sisters.
+
+[Character card pops up: Fitzwilliam Darcy]
+
+**Fitzwilliam Darcy.** A rich, proud, shy man who's bad at talking to strangers.
+
+[Character card pops up: Jane Bennet]
+
+**Jane Bennet.** The eldest sister, gentle and kind.
+
+[Character card pops up: Charles Bingley]
+
+**Charles Bingley.** Darcy's cheerful friend, who rents Netherfield.
+
+[Character card pops up: Caroline Bingley]
+
+**Caroline Bingley.** Bingley's sister, who wants to marry Darcy herself.
+
+[Character card pops up: Mrs Bennet]
+
+**Mrs Bennet.** The girls' mother, who's anxious to see them married.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "A Longer Stay at Netherfield." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THREE MILES OF MUD]
 
@@ -78,35 +110,11 @@ Jane was well enough to travel, so the carriage was ordered. By the middle of th
 
 Miss Bingley was very polite, and very glad to see them go. Mr Bingley was sorry and said so many times. As usual, Mr Darcy said almost nothing. But when he handed Elizabeth into the carriage, he held her hand a moment longer than he strictly needed to. And he said quietly, "I hope your sister continues well."
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Elizabeth Bennet]
-
-**Elizabeth Bennet.** Clever and quick to judge. She's the second of five sisters.
-
-[Character card pops up: Fitzwilliam Darcy]
-
-**Fitzwilliam Darcy.** A rich, proud, shy man who's bad at talking to strangers.
-
-[Character card pops up: Jane Bennet]
-
-**Jane Bennet.** The eldest sister, gentle and kind.
-
-[Character card pops up: Charles Bingley]
-
-**Charles Bingley.** Darcy's cheerful friend, who rents Netherfield.
-
-[Character card pops up: Caroline Bingley]
-
-**Caroline Bingley.** Bingley's sister, who wants to marry Darcy herself.
-
-[Character card pops up: Mrs Bennet]
-
-**Mrs Bennet.** The girls' mother, who's anxious to see them married.
 
 ## The big ideas
 
@@ -119,6 +127,10 @@ Miss Bingley was very polite, and very glad to see them go. Mr Bingley was sorry
 **Marriage and money.** Women in 1811 often couldn't inherit property, so marriage decided a woman's future.
 
 **Time to know someone.** Our version suggests that people often change their minds when they simply have more time together.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

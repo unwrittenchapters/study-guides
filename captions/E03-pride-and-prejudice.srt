@@ -7,7 +7,7 @@ Elizabeth Bennet and Mr Darcy almost don't get together, because they judge each
 This guide covers the novel and a version where a rainy week gives them time to talk.
 
 3
-00:00:18,222 --> 00:00:22,184
+00:00:18,225 --> 00:00:22,183
 Hello, and welcome to Unwritten Chapters, Study Edition.
 
 4
@@ -15,11 +15,11 @@ Hello, and welcome to Unwritten Chapters, Study Edition.
 In the next few minutes, I'll walk you through Pride and Prejudice, by Jane Austen.
 
 5
-00:00:27,199 --> 00:00:31,742
+00:00:27,199 --> 00:00:31,740
 It's a quick guide you can use for class, a book club, or your own curiosity.
 
 6
-00:00:31,971 --> 00:00:36,035
+00:00:31,972 --> 00:00:36,035
 The full guide, with ten museum and archive sources, is linked below.
 
 7
@@ -31,7 +31,7 @@ Mrs Bennet has five daughters and no sons, so the family home will go to a cousi
 She badly wants her girls to marry well.
 
 9
-00:00:48,953 --> 00:00:55,289
+00:00:48,954 --> 00:00:55,289
 When a rich young man, Mr Bingley, rents Netherfield Hall nearby, she gets very excited.
 
 10
@@ -51,426 +51,434 @@ A charming officer, Mr Wickham, tells her a false story about Darcy, and she bel
 Darcy proposes, and Elizabeth turns him down angrily.
 
 14
-00:01:17,501 --> 00:01:20,852
+00:01:17,501 --> 00:01:20,850
 He writes her a letter explaining the truth about Wickham.
 
 15
-00:01:21,149 --> 00:01:29,605
+00:01:21,149 --> 00:01:29,603
 Slowly each of them sees their own pride and prejudice, and when Darcy quietly saves her family from scandal, she realises she
 
 16
-00:01:29,605 --> 00:01:30,527
+00:01:29,603 --> 00:01:30,524
 loves him.
 
 17
-00:01:32,377 --> 00:01:34,396
-Now for the story.
+00:01:31,149 --> 00:01:34,812
+Next, who's who, so you can keep everyone straight.
 
 18
-00:01:34,610 --> 00:01:39,570
-Our sleep story for this book is called "A Longer Stay at Netherfield."
-
-19
-00:01:39,779 --> 00:01:42,919
-Here's how it unfolds, chapter by chapter.
-
-20
-00:01:43,348 --> 00:01:44,456
-Chapter one.
-
-21
-00:01:44,694 --> 00:01:46,313
-Three Miles of Mud.
-
-22
-00:01:47,123 --> 00:01:52,237
-Like so many things in that family, it began with one of Mrs Bennet's schemes.
-
-23
-00:01:52,817 --> 00:01:59,976
-Jane, the eldest of the five Bennet sisters, had been invited to dine at Netherfield with Mr Bingley's sisters.
-
-24
-00:02:00,444 --> 00:02:06,328
-Mrs Bennet wanted Jane to marry Mr Bingley very much, so she wouldn't let her take the carriage.
-
-25
-00:02:06,693 --> 00:02:10,600
-Jane must go on horseback, she said, because it looked like rain.
-
-26
-00:02:10,731 --> 00:02:13,654
-And if it rained, Jane would have to stay the night.
-
-27
-00:02:14,456 --> 00:02:16,703
-It did rain, all evening.
-
-28
-00:02:16,969 --> 00:02:20,052
-Jane had ridden there in it and caught a bad cold.
-
-29
-00:02:20,354 --> 00:02:25,212
-The next morning a note came from Netherfield to say she was too unwell to come home.
-
-30
-00:02:25,514 --> 00:02:29,681
-Her sister Elizabeth couldn't bear to sit at home while Jane was ill.
-
-31
-00:02:30,032 --> 00:02:33,544
-There was no carriage to be had, and Elizabeth couldn't ride.
-
-32
-00:02:33,699 --> 00:02:37,879
-So she did what she always did when something mattered, and she walked.
-
-33
-00:02:38,457 --> 00:02:39,556
-Chapter two.
-
-34
-00:02:39,746 --> 00:02:40,808
-The Library.
-
-35
-00:02:41,673 --> 00:02:45,632
-Netherfield had a library, though not a very good one.
-
-36
-00:02:46,285 --> 00:02:51,140
-Mr Bingley had only lately taken the house, and he wasn't much of a reader.
-
-37
-00:02:51,477 --> 00:02:55,228
-He cheerfully admitted he had more books than he ever looked into.
-
-38
-00:02:55,580 --> 00:02:59,934
-The shelves were half empty, and most of the books there had come with the house.
-
-39
-00:03:00,311 --> 00:03:06,049
-There were old sermons, old histories, and a few books of poems nobody had ever opened.
-
-40
-00:03:06,345 --> 00:03:08,644
-But it was a quiet room with a good fire.
-
-41
-00:03:09,239 --> 00:03:15,112
-On the fourth wet afternoon, Elizabeth found her way into it, looking for something to read to Jane.
-
-42
-00:03:15,878 --> 00:03:18,175
-Mr Darcy was already there.
-
-43
-00:03:19,042 --> 00:03:20,198
-Chapter three.
-
-44
-00:03:20,361 --> 00:03:21,279
-The Letter.
-
-45
-00:03:21,706 --> 00:03:26,347
-After that afternoon, the evenings at Netherfield were a little different.
-
-46
-00:03:26,707 --> 00:03:28,698
-In most ways they were the same.
-
-47
-00:03:28,952 --> 00:03:32,208
-Mr Bingley still talked cheerfully about everything.
-
-48
-00:03:32,383 --> 00:03:38,629
-His sister Mrs Hurst still played cards with her husband, who still fell asleep on the sofa after dinner.
-
-49
-00:03:38,846 --> 00:03:46,815
-And Caroline Bingley, who wanted to marry Mr Darcy herself, still sat as near him as she could and praised everything he did.
-
-50
-00:03:47,700 --> 00:03:50,167
-There's a famous evening like this in the book.
-
-51
-00:03:50,366 --> 00:03:56,640
-Mr Darcy is writing a letter to his young sister Georgiana, and Miss Bingley watches every line.
-
-52
-00:03:56,904 --> 00:04:00,785
-She praises how even his writing is and how long his letters are.
-
-53
-00:04:01,048 --> 00:04:06,253
-She asks him to tell his sister she longs to see her, until he can hardly write at all.
-
-54
-00:04:06,531 --> 00:04:11,153
-Elizabeth sits with her needlework, quietly and wickedly amused.
-
-55
-00:04:11,502 --> 00:04:12,898
-The Last Page.
-
-56
-00:04:13,658 --> 00:04:15,755
-The rain stopped on a Sunday.
-
-57
-00:04:16,416 --> 00:04:21,049
-Elizabeth woke to an odd silence and lay wondering about it for a while.
-
-58
-00:04:21,427 --> 00:04:24,803
-Then she realised it was the missing sound of rain on the roof.
-
-59
-00:04:25,267 --> 00:04:26,656
-She went to the window.
-
-60
-00:04:26,861 --> 00:04:33,461
-The garden was washed and shining, the sky was a clean pale blue, and there were birds everywhere.
-
-61
-00:04:33,889 --> 00:04:37,433
-Jane was well enough to travel, so the carriage was ordered.
-
-62
-00:04:37,726 --> 00:04:43,169
-By the middle of the morning the two sisters were standing in the hall in their bonnets, saying goodbye.
-
-63
-00:04:43,902 --> 00:04:47,883
-Miss Bingley was very polite, and very glad to see them go.
-
-64
-00:04:48,214 --> 00:04:51,792
-Mr Bingley was sorry and said so many times.
-
-65
-00:04:51,952 --> 00:04:55,227
-As usual, Mr Darcy said almost nothing.
-
-66
-00:04:55,549 --> 00:05:01,840
-But when he handed Elizabeth into the carriage, he held her hand a moment longer than he strictly needed to.
-
-67
-00:05:02,105 --> 00:05:05,857
-And he said quietly, "I hope your sister continues well."
-
-68
-00:05:07,969 --> 00:05:09,195
+00:01:36,743 --> 00:01:37,968
 Elizabeth Bennet.
 
-69
-00:05:09,238 --> 00:05:10,998
+19
+00:01:38,011 --> 00:01:39,771
 Clever and quick to judge.
 
-70
-00:05:11,093 --> 00:05:13,265
+20
+00:01:39,866 --> 00:01:42,038
 She's the second of five sisters.
 
-71
-00:05:13,998 --> 00:05:15,582
+21
+00:01:42,772 --> 00:01:44,355
 Fitzwilliam Darcy.
 
-72
-00:05:15,775 --> 00:05:20,234
+22
+00:01:44,548 --> 00:01:49,007
 A rich, proud, shy man who's bad at talking to strangers.
 
-73
-00:05:20,803 --> 00:05:21,934
+23
+00:01:49,576 --> 00:01:50,706
 Jane Bennet.
 
-74
-00:05:22,088 --> 00:05:25,029
+24
+00:01:50,862 --> 00:01:53,797
 The eldest sister, gentle and kind.
 
-75
-00:05:25,991 --> 00:05:27,297
+25
+00:01:54,764 --> 00:01:56,070
 Charles Bingley.
 
-76
-00:05:27,610 --> 00:05:30,823
+26
+00:01:56,383 --> 00:01:59,596
 Darcy's cheerful friend, who rents Netherfield.
 
-77
-00:05:31,132 --> 00:05:32,481
+27
+00:01:59,906 --> 00:02:01,254
 Caroline Bingley.
 
-78
-00:05:32,767 --> 00:05:36,018
+28
+00:02:01,540 --> 00:02:04,791
 Bingley's sister, who wants to marry Darcy herself.
 
-79
-00:05:36,922 --> 00:05:38,154
+29
+00:02:05,695 --> 00:02:06,927
 Mrs Bennet.
 
-80
-00:05:38,341 --> 00:05:41,634
+30
+00:02:07,115 --> 00:02:10,407
 The girls' mother, who's anxious to see them married.
 
+31
+00:02:12,537 --> 00:02:14,556
+Now for the story.
+
+32
+00:02:14,740 --> 00:02:17,876
+Here's how it unfolds, chapter by chapter.
+
+33
+00:02:18,305 --> 00:02:19,407
+Chapter one.
+
+34
+00:02:19,650 --> 00:02:21,263
+Three Miles of Mud.
+
+35
+00:02:22,079 --> 00:02:27,194
+Like so many things in that family, it began with one of Mrs Bennet's schemes.
+
+36
+00:02:27,774 --> 00:02:34,933
+Jane, the eldest of the five Bennet sisters, had been invited to dine at Netherfield with Mr Bingley's sisters.
+
+37
+00:02:35,400 --> 00:02:41,284
+Mrs Bennet wanted Jane to marry Mr Bingley very much, so she wouldn't let her take the carriage.
+
+38
+00:02:41,649 --> 00:02:45,556
+Jane must go on horseback, she said, because it looked like rain.
+
+39
+00:02:45,687 --> 00:02:48,601
+And if it rained, Jane would have to stay the night.
+
+40
+00:02:49,413 --> 00:02:51,660
+It did rain, all evening.
+
+41
+00:02:51,925 --> 00:02:55,008
+Jane had ridden there in it and caught a bad cold.
+
+42
+00:02:55,311 --> 00:03:00,168
+The next morning a note came from Netherfield to say she was too unwell to come home.
+
+43
+00:03:00,471 --> 00:03:04,635
+Her sister Elizabeth couldn't bear to sit at home while Jane was ill.
+
+44
+00:03:04,988 --> 00:03:08,500
+There was no carriage to be had, and Elizabeth couldn't ride.
+
+45
+00:03:08,656 --> 00:03:12,836
+So she did what she always did when something mattered, and she walked.
+
+46
+00:03:13,414 --> 00:03:14,512
+Chapter two.
+
+47
+00:03:14,702 --> 00:03:15,761
+The Library.
+
+48
+00:03:16,630 --> 00:03:20,589
+Netherfield had a library, though not a very good one.
+
+49
+00:03:21,242 --> 00:03:26,096
+Mr Bingley had only lately taken the house, and he wasn't much of a reader.
+
+50
+00:03:26,433 --> 00:03:30,185
+He cheerfully admitted he had more books than he ever looked into.
+
+51
+00:03:30,536 --> 00:03:34,890
+The shelves were half empty, and most of the books there had come with the house.
+
+52
+00:03:35,268 --> 00:03:41,006
+There were old sermons, old histories, and a few books of poems nobody had ever opened.
+
+53
+00:03:41,301 --> 00:03:43,601
+But it was a quiet room with a good fire.
+
+54
+00:03:44,195 --> 00:03:50,069
+On the fourth wet afternoon, Elizabeth found her way into it, looking for something to read to Jane.
+
+55
+00:03:50,835 --> 00:03:53,132
+Mr Darcy was already there.
+
+56
+00:03:53,999 --> 00:03:55,154
+Chapter three.
+
+57
+00:03:55,318 --> 00:03:56,235
+The Letter.
+
+58
+00:03:56,663 --> 00:04:01,296
+After that afternoon, the evenings at Netherfield were a little different.
+
+59
+00:04:01,663 --> 00:04:03,654
+In most ways they were the same.
+
+60
+00:04:03,908 --> 00:04:07,165
+Mr Bingley still talked cheerfully about everything.
+
+61
+00:04:07,340 --> 00:04:13,585
+His sister Mrs Hurst still played cards with her husband, who still fell asleep on the sofa after dinner.
+
+62
+00:04:13,803 --> 00:04:21,772
+And Caroline Bingley, who wanted to marry Mr Darcy herself, still sat as near him as she could and praised everything he did.
+
+63
+00:04:22,657 --> 00:04:25,123
+There's a famous evening like this in the book.
+
+64
+00:04:25,322 --> 00:04:31,597
+Mr Darcy is writing a letter to his young sister Georgiana, and Miss Bingley watches every line.
+
+65
+00:04:31,861 --> 00:04:35,741
+She praises how even his writing is and how long his letters are.
+
+66
+00:04:36,005 --> 00:04:41,210
+She asks him to tell his sister she longs to see her, until he can hardly write at all.
+
+67
+00:04:41,487 --> 00:04:46,110
+Elizabeth sits with her needlework, quietly and wickedly amused.
+
+68
+00:04:46,459 --> 00:04:47,854
+The Last Page.
+
+69
+00:04:48,614 --> 00:04:50,711
+The rain stopped on a Sunday.
+
+70
+00:04:51,373 --> 00:04:56,006
+Elizabeth woke to an odd silence and lay wondering about it for a while.
+
+71
+00:04:56,383 --> 00:04:59,759
+Then she realised it was the missing sound of rain on the roof.
+
+72
+00:05:00,224 --> 00:05:01,612
+She went to the window.
+
+73
+00:05:01,817 --> 00:05:08,418
+The garden was washed and shining, the sky was a clean pale blue, and there were birds everywhere.
+
+74
+00:05:08,845 --> 00:05:12,387
+Jane was well enough to travel, so the carriage was ordered.
+
+75
+00:05:12,683 --> 00:05:18,126
+By the middle of the morning the two sisters were standing in the hall in their bonnets, saying goodbye.
+
+76
+00:05:18,858 --> 00:05:22,836
+Miss Bingley was very polite, and very glad to see them go.
+
+77
+00:05:23,170 --> 00:05:26,743
+Mr Bingley was sorry and said so many times.
+
+78
+00:05:26,908 --> 00:05:30,184
+As usual, Mr Darcy said almost nothing.
+
+79
+00:05:30,506 --> 00:05:36,797
+But when he handed Elizabeth into the carriage, he held her hand a moment longer than he strictly needed to.
+
+80
+00:05:37,062 --> 00:05:40,813
+And he said quietly, "I hope your sister continues well."
+
 81
-00:05:43,764 --> 00:05:45,202
-First impressions.
+00:05:41,434 --> 00:05:45,542
+Next, the big ideas, the ones that come up in class.
 
 82
-00:05:45,387 --> 00:05:49,075
-Austen's first title for the book was First Impressions.
+00:05:47,699 --> 00:05:49,136
+First impressions.
 
 83
-00:05:49,251 --> 00:05:51,917
-Both main characters judge too quickly.
+00:05:49,321 --> 00:05:53,009
+Austen's first title for the book was First Impressions.
 
 84
-00:05:52,277 --> 00:05:53,874
-Pride and prejudice.
+00:05:53,185 --> 00:05:55,850
+Both main characters judge too quickly.
 
 85
-00:05:54,138 --> 00:05:58,057
-Darcy's pride and Elizabeth's prejudice both get in the way.
+00:05:56,211 --> 00:05:57,808
+Pride and prejudice.
 
 86
-00:05:58,361 --> 00:06:00,064
-Each has a bit of both.
+00:05:58,072 --> 00:06:01,991
+Darcy's pride and Elizabeth's prejudice both get in the way.
 
 87
-00:06:00,716 --> 00:06:02,215
-Marriage and money.
+00:06:02,295 --> 00:06:03,951
+Each has a bit of both.
 
 88
-00:06:02,607 --> 00:06:08,831
-Women in 1811 often couldn't inherit property, so marriage decided a woman's future.
+00:06:04,650 --> 00:06:06,149
+Marriage and money.
 
 89
-00:06:09,237 --> 00:06:10,798
-Time to know someone.
+00:06:06,541 --> 00:06:12,765
+Women in 1811 often couldn't inherit property, so marriage decided a woman's future.
 
 90
-00:06:11,215 --> 00:06:16,822
-Our version suggests that people often change their minds when they simply have more time together.
+00:06:13,171 --> 00:06:14,732
+Time to know someone.
 
 91
-00:06:18,995 --> 00:06:20,545
-So what's the what-if?
+00:06:15,149 --> 00:06:20,756
+Our version suggests that people often change their minds when they simply have more time together.
 
 92
-00:06:20,587 --> 00:06:22,709
-Here's the turning point we changed.
+00:06:21,376 --> 00:06:25,206
+Next, the exact moment our version changes the book.
 
 93
-00:06:23,497 --> 00:06:29,147
-In the book, Jane falls ill at Netherfield and Elizabeth stays a few days to nurse her.
+00:06:27,617 --> 00:06:29,161
+So what's the what-if?
 
 94
-00:06:29,379 --> 00:06:33,690
-In our story the rain doesn't stop, and they stay more than a week.
+00:06:29,203 --> 00:06:31,325
+Here's the turning point we changed.
 
 95
-00:06:34,053 --> 00:06:40,062
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+00:06:32,113 --> 00:06:37,763
+In the book, Jane falls ill at Netherfield and Elizabeth stays a few days to nurse her.
 
 96
-00:06:42,095 --> 00:06:45,444
-Before we go, here's a little about who wrote it.
+00:06:37,998 --> 00:06:42,306
+In our story the rain doesn't stop, and they stay more than a week.
 
 97
-00:06:46,111 --> 00:06:52,185
-Jane Austen was born in 1775, the daughter of a country vicar in Hampshire.
+00:06:42,669 --> 00:06:48,678
+Everything after that moment is new, but the characters still act the way their authors wrote them.
 
 98
-00:06:52,569 --> 00:06:57,897
-She wrote the first version of this book in her early twenties and called it First Impressions.
+00:06:50,711 --> 00:06:54,060
+Before we go, here's a little about who wrote it.
 
 99
-00:06:58,293 --> 00:07:01,273
-It was rejected, and she revised it for years.
+00:06:54,727 --> 00:07:00,801
+Jane Austen was born in 1775, the daughter of a country vicar in Hampshire.
 
 100
-00:07:01,638 --> 00:07:05,212
-When it came out in 1813, her name wasn't on it.
+00:07:01,185 --> 00:07:06,513
+She wrote the first version of this book in her early twenties and called it First Impressions.
 
 101
-00:07:05,406 --> 00:07:09,873
-The title page said only "By the Author of Sense and Sensibility."
+00:07:06,909 --> 00:07:09,889
+It was rejected, and she revised it for years.
 
 102
-00:07:11,965 --> 00:07:17,456
-The book is set during the Regency, when wealthy families lived on income from land.
+00:07:10,254 --> 00:07:13,828
+When it came out in 1813, her name wasn't on it.
 
 103
-00:07:17,825 --> 00:07:21,733
-Most women couldn't own much property or work in good jobs.
+00:07:14,021 --> 00:07:18,489
+The title page said only "By the Author of Sense and Sensibility."
 
 104
-00:07:22,075 --> 00:07:28,151
-A good marriage could decide a woman's whole future, and that's why Mrs Bennet worries so much.
+00:07:20,581 --> 00:07:26,031
+The book is set during the Regency, when wealthy families lived on income from land.
 
 105
-00:07:29,784 --> 00:07:31,734
-Want to see the real thing?
+00:07:26,440 --> 00:07:30,349
+Most women couldn't own much property or work in good jobs.
 
 106
-00:07:31,945 --> 00:07:37,664
-Here are all ten sources from the guide, and every one of them is free to explore online.
+00:07:30,691 --> 00:07:36,767
+A good marriage could decide a woman's whole future, and that's why Mrs Bennet worries so much.
 
 107
-00:07:38,578 --> 00:07:42,178
-Jane Austen's Fiction Manuscripts Digital Edition.
+00:07:38,876 --> 00:07:40,350
+Want to see the real thing?
 
 108
-00:07:42,562 --> 00:07:44,340
-Jane Austen's House.
+00:07:40,561 --> 00:07:46,280
+Here are all ten sources from the guide, and every one of them is free to explore online.
 
 109
-00:07:44,753 --> 00:07:45,994
-Chawton House.
+00:07:47,194 --> 00:07:50,794
+Jane Austen's Fiction Manuscripts Digital Edition.
 
 110
-00:07:46,610 --> 00:07:48,300
-Jane Austen Centre.
+00:07:51,178 --> 00:07:52,955
+Jane Austen's House.
 
 111
-00:07:48,947 --> 00:07:50,185
-Lyme Park.
+00:07:53,369 --> 00:07:54,598
+Chawton House.
 
 112
-00:07:50,816 --> 00:07:53,903
-The Met Collection, Regency fashion.
+00:07:55,226 --> 00:07:56,916
+Jane Austen Centre.
 
 113
-00:07:54,578 --> 00:07:57,380
-Jane Austen Society of North America.
+00:07:57,563 --> 00:07:58,800
+Lyme Park.
 
 114
-00:07:57,853 --> 00:08:01,212
-1813 first edition scans.
+00:07:59,432 --> 00:08:02,519
+The Met Collection, Regency fashion.
 
 115
-00:08:01,550 --> 00:08:03,378
-LibriVox audiobook.
+00:08:03,194 --> 00:08:05,996
+Jane Austen Society of North America.
 
 116
-00:08:03,859 --> 00:08:05,661
-Pride and Prejudice.
+00:08:06,469 --> 00:08:09,828
+1813 first edition scans.
 
 117
-00:08:06,471 --> 00:08:12,714
-And if you'd like to hear the full story, the two-hour sleep version of "A Longer Stay at Netherfield" is on the channel.
+00:08:10,166 --> 00:08:11,993
+LibriVox audiobook.
 
 118
-00:08:12,908 --> 00:08:16,564
-Thanks for studying with Unwritten Chapters.
+00:08:12,475 --> 00:08:14,277
+Pride and Prejudice.
 
 119
-00:08:16,952 --> 00:08:16,952
+00:08:15,087 --> 00:08:21,330
+And if you'd like to hear the full story, the two-hour sleep version of "A Longer Stay at Netherfield" is on the channel.
+
+120
+00:08:21,523 --> 00:08:25,180
+Thanks for studying with Unwritten Chapters.
+
+121
+00:08:25,568 --> 00:08:25,546
 See you in the next one!
 

@@ -26,13 +26,45 @@ He's sent to play at Satis House, where Miss Havisham sits in her old wedding dr
 
 A lawyer, Mr Jaggers, announces that Pip has "great expectations" from a secret helper. Pip becomes a gentleman in London and neglects Joe. He learns that his helper is the convict, Magwitch, not Miss Havisham. He loses his fortune, and Joe nurses him back to health.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Pip]
+
+**Pip.** An orphan who dreams of being a gentleman.
+
+[Character card pops up: Joe Gargery]
+
+**Joe Gargery.** The gentle, loyal blacksmith who raises him.
+
+[Character card pops up: Miss Havisham]
+
+**Miss Havisham.** A rich, bitter woman frozen on her wedding day.
+
+[Character card pops up: Estella]
+
+**Estella.** Her proud, beautiful ward.
+
+[Character card pops up: Biddy]
+
+**Biddy.** A clever, kind village girl.
+
+[Character card pops up: Mr Jaggers]
+
+**Mr Jaggers.** A powerful London lawyer.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Pip Stays at the Forge." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE FORGE]
 
@@ -86,35 +118,11 @@ He means life is full of goodbyes, joined together the way a blacksmith joins pi
 
 Tonight, there was no parting.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Pip]
-
-**Pip.** An orphan who dreams of being a gentleman.
-
-[Character card pops up: Joe Gargery]
-
-**Joe Gargery.** The gentle, loyal blacksmith who raises him.
-
-[Character card pops up: Miss Havisham]
-
-**Miss Havisham.** A rich, bitter woman frozen on her wedding day.
-
-[Character card pops up: Estella]
-
-**Estella.** Her proud, beautiful ward.
-
-[Character card pops up: Biddy]
-
-**Biddy.** A clever, kind village girl.
-
-[Character card pops up: Mr Jaggers]
-
-**Mr Jaggers.** A powerful London lawyer.
 
 ## The big ideas
 
@@ -127,6 +135,10 @@ Tonight, there was no parting.
 **Loyalty.** Joe never stops loving Pip.
 
 **Choosing your life.** Our version imagines Pip choosing the forge freely.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

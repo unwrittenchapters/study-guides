@@ -26,13 +26,37 @@ Jim teaches Ántonia English. Her family struggles through hard winters, and her
 
 Jim leaves for university and becomes a railroad lawyer in New York. Twenty years later he visits Ántonia, now married with many children on her own farm, and realises they share a past nobody else can understand.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Jim Burden]
+
+**Jim Burden.** The narrator, a thoughtful boy who becomes a lawyer in the book.
+
+[Character card pops up: Ántonia Shimerda]
+
+**Ántonia Shimerda.** A warm, strong girl from Bohemia.
+
+[Character card pops up: Grandmother and Grandfather Burden]
+
+**Grandmother and Grandfather Burden.** Jim's kind, hardworking grandparents.
+
+[Character card pops up: Anton Cuzak]
+
+**Anton Cuzak.** The cheerful Bohemian farmer Ántonia marries.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Jim Stays on the Prairie." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE EDGE OF THE WORLD]
 
@@ -78,27 +102,11 @@ Someone had left a plough standing in a field, and the sun was sinking exactly b
 
 Tonight, Jim stood in the grass and watched it until the sun was gone. Then he walked on home in the dusk, with the crickets starting up and the first stars coming out, the way he'd done ten thousand times before.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Jim Burden]
-
-**Jim Burden.** The narrator, a thoughtful boy who becomes a lawyer in the book.
-
-[Character card pops up: Ántonia Shimerda]
-
-**Ántonia Shimerda.** A warm, strong girl from Bohemia.
-
-[Character card pops up: Grandmother and Grandfather Burden]
-
-**Grandmother and Grandfather Burden.** Jim's kind, hardworking grandparents.
-
-[Character card pops up: Anton Cuzak]
-
-**Anton Cuzak.** The cheerful Bohemian farmer Ántonia marries.
 
 ## The big ideas
 
@@ -111,6 +119,10 @@ Tonight, Jim stood in the grass and watched it until the sun was gone. Then he w
 **Land and belonging.** The prairie shapes everyone who lives on it.
 
 **Ordinary heroism.** Ántonia's courage is in daily work, not big adventures.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

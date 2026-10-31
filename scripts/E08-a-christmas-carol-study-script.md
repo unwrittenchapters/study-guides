@@ -26,13 +26,41 @@ That night the ghost of his old partner, Jacob Marley, warns him to change. Thre
 
 Scrooge wakes on Christmas morning a changed man. He sends the Cratchits a huge turkey, raises Bob's salary, and becomes a second father to Tiny Tim.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Ebenezer Scrooge]
+
+**Ebenezer Scrooge.** A cold, greedy old man.
+
+[Character card pops up: Bob Cratchit]
+
+**Bob Cratchit.** Scrooge's poor, patient clerk.
+
+[Character card pops up: Tiny Tim]
+
+**Tiny Tim.** Bob's youngest son, small and ill.
+
+[Character card pops up: Jacob Marley]
+
+**Jacob Marley.** Scrooge's dead partner, who returns as a ghost.
+
+[Character card pops up: The three spirits]
+
+**The three spirits.** Christmas Past, Present and Yet to Come.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Bob Stays Late." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: ONE COAL]
 
@@ -82,31 +110,11 @@ All that's in the book, and it's one of the happiest pages ever written.
 
 On the morning after Christmas, Bob Cratchit was late for work.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Ebenezer Scrooge]
-
-**Ebenezer Scrooge.** A cold, greedy old man.
-
-[Character card pops up: Bob Cratchit]
-
-**Bob Cratchit.** Scrooge's poor, patient clerk.
-
-[Character card pops up: Tiny Tim]
-
-**Tiny Tim.** Bob's youngest son, small and ill.
-
-[Character card pops up: Jacob Marley]
-
-**Jacob Marley.** Scrooge's dead partner, who returns as a ghost.
-
-[Character card pops up: The three spirits]
-
-**The three spirits.** Christmas Past, Present and Yet to Come.
 
 ## The big ideas
 
@@ -119,6 +127,10 @@ On the morning after Christmas, Bob Cratchit was late for work.
 **Small kindnesses.** Our story shows a big change starting with one coal.
 
 **Generosity.** Scrooge's change is shown in what he gives.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

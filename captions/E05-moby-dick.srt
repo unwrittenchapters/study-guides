@@ -19,7 +19,7 @@ In the next few minutes, I'll walk you through Moby-Dick, by Herman Melville.
 It's a quick guide you can use for class, a book club, or your own curiosity.
 
 6
-00:00:30,659 --> 00:00:34,998
+00:00:30,659 --> 00:00:34,995
 The full guide, with ten museum and archive sources, is linked below.
 
 7
@@ -35,7 +35,7 @@ Its captain, Ahab, has lost a leg to a giant white sperm whale called Moby Dick,
 He nails a gold coin to the mast for whoever sees the whale first.
 
 10
-00:00:57,320 --> 00:01:05,031
+00:00:57,320 --> 00:01:05,028
 The book follows the long voyage across the oceans, mixing adventure with chapters about whales, ships and the sea.
 
 11
@@ -59,358 +59,366 @@ Ahab won't turn back.
 The Pequod finds the white whale, and after a three-day chase the ship is destroyed.
 
 16
-00:01:25,499 --> 00:01:28,225
+00:01:25,499 --> 00:01:28,224
 Only Ishmael survives to tell the story.
 
 17
-00:01:29,861 --> 00:01:31,666
-Now for the story.
+00:01:28,847 --> 00:01:32,473
+Next, who's who, so you can keep everyone straight.
 
 18
-00:01:31,983 --> 00:01:36,021
-Our sleep story for this book is called "Ahab Turns for Home."
-
-19
-00:01:36,347 --> 00:01:39,099
-Here's how it unfolds, chapter by chapter.
-
-20
-00:01:39,384 --> 00:01:40,445
-Chapter one.
-
-21
-00:01:40,689 --> 00:01:41,698
-Loomings.
-
-22
-00:01:42,352 --> 00:01:45,384
-Ishmael goes to sea whenever he feels gloomy.
-
-23
-00:01:45,684 --> 00:01:50,633
-One cold December he signs on to the Pequod, a whaling ship from Nantucket.
-
-24
-00:01:50,873 --> 00:01:54,372
-Her captain, Ahab, has a leg made of whalebone.
-
-25
-00:01:54,641 --> 00:01:58,708
-He lost the real one to a huge white whale called Moby Dick.
-
-26
-00:01:59,049 --> 00:02:03,455
-Ahab nails a gold coin to the mast for whoever sights the whale first.
-
-27
-00:02:03,773 --> 00:02:05,128
-The crew cheers.
-
-28
-00:02:05,467 --> 00:02:11,287
-Only Starbuck, the careful first mate, stays quiet and thinks of his wife and son.
-
-29
-00:02:11,517 --> 00:02:16,579
-Starbuck came to sea to hunt whales for their oil, as an honest living.
-
-30
-00:02:16,961 --> 00:02:20,593
-He didn't come to chase one whale across the world for revenge.
-
-31
-00:02:20,957 --> 00:02:26,042
-He looks at the coin for a long time, then goes below to the picture of his family.
-
-32
-00:02:26,482 --> 00:02:27,548
-Chapter two.
-
-33
-00:02:27,753 --> 00:02:28,876
-The Mast-Head.
-
-34
-00:02:29,585 --> 00:02:34,090
-The Pequod sails for months, around Africa and into the Pacific.
-
-35
-00:02:34,581 --> 00:02:38,728
-Ishmael takes his turn at the masthead and drifts into daydreams.
-
-36
-00:02:39,401 --> 00:02:43,271
-On calm golden days the sea is like glass.
-
-37
-00:02:44,114 --> 00:02:51,257
-Starbuck thinks about the hill above Nantucket harbour, where his wife has promised to carry their little boy every morning to watch
-
-38
-00:02:51,257 --> 00:02:52,697
-for his father's sail.
-
-39
-00:02:53,090 --> 00:02:56,020
-Ahab paces the deck and looks at the coin.
-
-40
-00:02:56,457 --> 00:02:58,825
-Ishmael admits he's a poor lookout.
-
-41
-00:02:59,354 --> 00:03:06,842
-Up at the top of the mast, a hundred feet above the deck, he feels the whole ocean is a dream, and he's part of it.
-
-42
-00:03:07,168 --> 00:03:12,960
-Melville writes about those calm days in chapters called "The Mast-Head" and "The Gilder."
-
-43
-00:03:13,728 --> 00:03:14,830
-Chapter three.
-
-44
-00:03:15,135 --> 00:03:16,097
-The Symphony.
-
-45
-00:03:16,490 --> 00:03:22,485
-On a clear steel-blue morning, Ahab leans over the rail and drops a tear into the sea.
-
-46
-00:03:22,958 --> 00:03:28,482
-He tells Starbuck about forty years at sea, and the wife and little boy he left behind.
-
-47
-00:03:28,912 --> 00:03:31,349
-Starbuck begs him to turn for home.
-
-48
-00:03:31,852 --> 00:03:40,517
-He tells Ahab about the hill, and the boy watching for a sail, and Ahab says he's seen mild blue days like this in Nantucket too.
-
-49
-00:03:40,971 --> 00:03:43,285
-In the book, Ahab looks away.
-
-50
-00:03:43,585 --> 00:03:45,164
-Tonight he doesn't.
-
-51
-00:03:45,528 --> 00:03:51,130
-He calls the crew, the yards swing round, and the Pequod turns her bow toward home.
-
-52
-00:03:51,457 --> 00:03:56,608
-Up at the masthead, Ishmael watches the long white wake curve away behind them.
-
-53
-00:03:57,053 --> 00:03:58,427
-The Last Page.
-
-54
-00:03:58,860 --> 00:04:02,501
-Ahab gives the gold coin to Starbuck, for the boy.
-
-55
-00:04:03,084 --> 00:04:08,272
-The ship sails the long way home, and the white whale swims on, free.
-
-56
-00:04:08,844 --> 00:04:13,370
-One summer morning, a little boy on the hill above Nantucket sees a sail.
-
-57
-00:04:13,943 --> 00:04:19,990
-Years later, Ishmael writes the whole story down, and begins it with the same three words.
-
-58
-00:04:21,831 --> 00:04:27,409
+00:01:34,226 --> 00:01:39,803
 Ishmael. The narrator, a thoughtful young sailor who goes to sea when he feels gloomy.
 
-59
-00:04:28,004 --> 00:04:29,256
+19
+00:01:40,399 --> 00:01:41,651
 Captain Ahab.
 
-60
-00:04:29,523 --> 00:04:34,641
+20
+00:01:41,917 --> 00:01:47,036
 The Pequod's captain, who has a whalebone leg and wants revenge on the white whale.
 
-61
-00:04:35,161 --> 00:04:36,525
+21
+00:01:47,556 --> 00:01:48,918
 Starbuck.
 
-62
-00:04:36,859 --> 00:04:41,490
+22
+00:01:49,254 --> 00:01:53,882
 The careful first mate from Nantucket, who has a wife and young son at home.
 
-63
-00:04:42,185 --> 00:04:43,024
+23
+00:01:54,580 --> 00:01:55,419
 Queequeg.
 
-64
-00:04:43,266 --> 00:04:47,675
+24
+00:01:55,661 --> 00:02:00,069
 A harpooneer from a South Sea island, and Ishmael's closest friend.
 
-65
-00:04:48,060 --> 00:04:49,443
+25
+00:02:00,457 --> 00:02:01,838
 Moby Dick.
 
-66
-00:04:49,718 --> 00:04:53,190
+26
+00:02:02,113 --> 00:02:05,582
 The great white whale, famous all over the ocean.
 
+27
+00:02:07,390 --> 00:02:09,195
+Now for the story.
+
+28
+00:02:09,374 --> 00:02:12,126
+Here's how it unfolds, chapter by chapter.
+
+29
+00:02:12,411 --> 00:02:13,472
+Chapter one.
+
+30
+00:02:13,717 --> 00:02:14,725
+Loomings.
+
+31
+00:02:15,380 --> 00:02:18,411
+Ishmael goes to sea whenever he feels gloomy.
+
+32
+00:02:18,712 --> 00:02:23,654
+One cold December he signs on to the Pequod, a whaling ship from Nantucket.
+
+33
+00:02:23,901 --> 00:02:27,399
+Her captain, Ahab, has a leg made of whalebone.
+
+34
+00:02:27,668 --> 00:02:31,736
+He lost the real one to a huge white whale called Moby Dick.
+
+35
+00:02:32,076 --> 00:02:36,483
+Ahab nails a gold coin to the mast for whoever sights the whale first.
+
+36
+00:02:36,800 --> 00:02:38,155
+The crew cheers.
+
+37
+00:02:38,495 --> 00:02:44,314
+Only Starbuck, the careful first mate, stays quiet and thinks of his wife and son.
+
+38
+00:02:44,544 --> 00:02:49,606
+Starbuck came to sea to hunt whales for their oil, as an honest living.
+
+39
+00:02:49,989 --> 00:02:53,615
+He didn't come to chase one whale across the world for revenge.
+
+40
+00:02:53,984 --> 00:02:59,069
+He looks at the coin for a long time, then goes below to the picture of his family.
+
+41
+00:02:59,509 --> 00:03:00,576
+Chapter two.
+
+42
+00:03:00,781 --> 00:03:01,903
+The Mast-Head.
+
+43
+00:03:02,612 --> 00:03:07,118
+The Pequod sails for months, around Africa and into the Pacific.
+
+44
+00:03:07,608 --> 00:03:11,756
+Ishmael takes his turn at the masthead and drifts into daydreams.
+
+45
+00:03:12,428 --> 00:03:16,298
+On calm golden days the sea is like glass.
+
+46
+00:03:17,142 --> 00:03:24,284
+Starbuck thinks about the hill above Nantucket harbour, where his wife has promised to carry their little boy every morning to watch
+
+47
+00:03:24,284 --> 00:03:25,724
+for his father's sail.
+
+48
+00:03:26,118 --> 00:03:29,044
+Ahab paces the deck and looks at the coin.
+
+49
+00:03:29,484 --> 00:03:31,852
+Ishmael admits he's a poor lookout.
+
+50
+00:03:32,381 --> 00:03:39,863
+Up at the top of the mast, a hundred feet above the deck, he feels the whole ocean is a dream, and he's part of it.
+
+51
+00:03:40,195 --> 00:03:45,987
+Melville writes about those calm days in chapters called "The Mast-Head" and "The Gilder."
+
+52
+00:03:46,755 --> 00:03:47,858
+Chapter three.
+
+53
+00:03:48,162 --> 00:03:49,124
+The Symphony.
+
+54
+00:03:49,518 --> 00:03:55,512
+On a clear steel-blue morning, Ahab leans over the rail and drops a tear into the sea.
+
+55
+00:03:55,989 --> 00:04:01,509
+He tells Starbuck about forty years at sea, and the wife and little boy he left behind.
+
+56
+00:04:01,940 --> 00:04:04,376
+Starbuck begs him to turn for home.
+
+57
+00:04:04,887 --> 00:04:13,544
+He tells Ahab about the hill, and the boy watching for a sail, and Ahab says he's seen mild blue days like this in Nantucket too.
+
+58
+00:04:13,998 --> 00:04:16,312
+In the book, Ahab looks away.
+
+59
+00:04:16,614 --> 00:04:18,191
+Tonight he doesn't.
+
+60
+00:04:18,555 --> 00:04:24,158
+He calls the crew, the yards swing round, and the Pequod turns her bow toward home.
+
+61
+00:04:24,484 --> 00:04:29,635
+Up at the masthead, Ishmael watches the long white wake curve away behind them.
+
+62
+00:04:30,080 --> 00:04:31,454
+The Last Page.
+
+63
+00:04:31,887 --> 00:04:35,528
+Ahab gives the gold coin to Starbuck, for the boy.
+
+64
+00:04:36,111 --> 00:04:41,299
+The ship sails the long way home, and the white whale swims on, free.
+
+65
+00:04:41,871 --> 00:04:46,394
+One summer morning, a little boy on the hill above Nantucket sees a sail.
+
+66
+00:04:46,971 --> 00:04:53,017
+Years later, Ishmael writes the whole story down, and begins it with the same three words.
+
 67
-00:04:54,995 --> 00:04:56,044
-Obsession.
+00:04:53,646 --> 00:04:57,719
+Next, the big ideas, the ones that come up in class.
 
 68
-00:04:56,374 --> 00:04:59,146
-Ahab can't let go of his anger at the whale.
+00:04:59,630 --> 00:05:00,679
+Obsession.
 
 69
-00:04:59,386 --> 00:05:01,933
-It pushes everything else out of his life.
+00:05:01,010 --> 00:05:03,781
+Ahab can't let go of his anger at the whale.
 
 70
-00:05:02,699 --> 00:05:06,606
-Home. Starbuck keeps thinking of his wife and son.
+00:05:04,022 --> 00:05:06,568
+It pushes everything else out of his life.
 
 71
-00:05:06,902 --> 00:05:11,494
-The calm chapter "The Symphony" shows Ahab remembering home too.
+00:05:07,334 --> 00:05:11,241
+Home. Starbuck keeps thinking of his wife and son.
 
 72
-00:05:11,867 --> 00:05:15,888
-Choice. In the book, Ahab says he can't stop.
+00:05:11,537 --> 00:05:16,126
+The calm chapter "The Symphony" shows Ahab remembering home too.
 
 73
-00:05:16,222 --> 00:05:19,781
-Our story asks what happens if he chooses differently.
+00:05:16,503 --> 00:05:20,523
+Choice. In the book, Ahab says he can't stop.
 
 74
-00:05:20,118 --> 00:05:21,663
-The size of the sea.
+00:05:20,857 --> 00:05:24,413
+Our story asks what happens if he chooses differently.
 
 75
-00:05:22,016 --> 00:05:29,711
-Melville fills the book with facts about whales and oceans to show how huge and mysterious the natural world is.
+00:05:24,753 --> 00:05:26,298
+The size of the sea.
 
 76
-00:05:31,498 --> 00:05:32,221
-So what's the what-if?
+00:05:26,651 --> 00:05:34,344
+Melville fills the book with facts about whales and oceans to show how huge and mysterious the natural world is.
 
 77
-00:05:32,221 --> 00:05:35,814
-Here's the turning point we changed.
+00:05:34,969 --> 00:05:38,782
+Next, the exact moment our version changes the book.
 
 78
-00:05:36,374 --> 00:05:42,567
-In our story, everything happens as it does in the book until that calm blue morning in "The Symphony."
+00:05:40,816 --> 00:05:41,539
+So what's the what-if?
 
 79
-00:05:43,045 --> 00:05:48,536
-Starbuck begs Ahab to turn for home, and this time Ahab doesn't look away.
+00:05:41,539 --> 00:05:45,131
+Here's the turning point we changed.
 
 80
-00:05:48,965 --> 00:05:51,543
-He calls the crew and orders the ship about.
+00:05:45,691 --> 00:05:51,885
+In our story, everything happens as it does in the book until that calm blue morning in "The Symphony."
 
 81
-00:05:52,346 --> 00:05:58,219
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+00:05:52,362 --> 00:05:57,854
+Starbuck begs Ahab to turn for home, and this time Ahab doesn't look away.
 
 82
-00:06:00,000 --> 00:06:02,980
-Before we go, here's a little about who wrote it.
+00:05:58,283 --> 00:06:00,860
+He calls the crew and orders the ship about.
 
 83
-00:06:03,746 --> 00:06:07,241
-Herman Melville was born in New York in 1819.
+00:06:01,664 --> 00:06:07,537
+Everything after that moment is new, but the characters still act the way their authors wrote them.
 
 84
-00:06:07,539 --> 00:06:14,039
-As a young man he sailed on a whaling ship to the Pacific and later jumped ship in the Marquesas Islands.
+00:06:09,318 --> 00:06:12,297
+Before we go, here's a little about who wrote it.
 
 85
-00:06:14,254 --> 00:06:18,491
-He wrote Moby-Dick at his farmhouse, Arrowhead, in Massachusetts.
+00:06:13,064 --> 00:06:16,558
+Herman Melville was born in New York in 1819.
 
 86
-00:06:18,840 --> 00:06:23,210
-The book sold poorly in his lifetime, and he died almost forgotten.
+00:06:16,857 --> 00:06:23,355
+As a young man he sailed on a whaling ship to the Pacific and later jumped ship in the Marquesas Islands.
 
 87
-00:06:25,134 --> 00:06:30,060
-In the 1840s and 1850s, whaling was a huge industry.
+00:06:23,571 --> 00:06:27,807
+He wrote Moby-Dick at his farmhouse, Arrowhead, in Massachusetts.
 
 88
-00:06:30,319 --> 00:06:38,248
-Whale oil lit lamps across America and Europe, and ships from Nantucket and New Bedford stayed at sea for three or four years at
+00:06:28,157 --> 00:06:32,523
+The book sold poorly in his lifetime, and he died almost forgotten.
 
 89
-00:06:38,248 --> 00:06:41,286
-a time, sailing all the way around the world.
+00:06:34,451 --> 00:06:39,377
+In the 1840s and 1850s, whaling was a huge industry.
 
 90
-00:06:43,272 --> 00:06:44,671
-Want to see the real thing?
+00:06:39,636 --> 00:06:47,565
+Whale oil lit lamps across America and Europe, and ships from Nantucket and New Bedford stayed at sea for three or four years at
 
 91
-00:06:44,922 --> 00:06:50,779
-Here are all ten sources from the guide, and every one of them is free to explore online.
+00:06:47,565 --> 00:06:50,603
+a time, sailing all the way around the world.
 
 92
-00:06:51,231 --> 00:06:53,142
-New Bedford Whaling Museum.
+00:06:52,589 --> 00:06:53,986
+Want to see the real thing?
 
 93
-00:06:53,508 --> 00:06:55,421
-Mystic Seaport Museum.
+00:06:54,240 --> 00:07:00,096
+Here are all ten sources from the guide, and every one of them is free to explore online.
 
 94
-00:06:56,093 --> 00:06:58,469
-Nantucket Historical Association.
+00:07:00,548 --> 00:07:02,459
+New Bedford Whaling Museum.
 
 95
-00:06:58,852 --> 00:06:59,768
-Arrowhead.
+00:07:02,825 --> 00:07:04,738
+Mystic Seaport Museum.
 
 96
-00:07:00,597 --> 00:07:03,013
-Melville's Marginalia Online.
+00:07:05,410 --> 00:07:07,787
+Nantucket Historical Association.
 
 97
-00:07:03,748 --> 00:07:05,022
-Houghton Library.
+00:07:08,170 --> 00:07:09,085
+Arrowhead.
 
 98
-00:07:05,431 --> 00:07:07,001
-Berkshire Athenaeum.
+00:07:09,915 --> 00:07:12,330
+Melville's Marginalia Online.
 
 99
-00:07:07,731 --> 00:07:09,186
-Power Moby-Dick.
+00:07:13,066 --> 00:07:14,340
+Houghton Library.
 
 100
-00:07:09,906 --> 00:07:11,785
-The Moby-Dick Big Read.
+00:07:14,748 --> 00:07:16,318
+Berkshire Athenaeum.
 
 101
-00:07:12,531 --> 00:07:13,617
-Moby-Dick.
+00:07:17,048 --> 00:07:18,503
+Power Moby-Dick.
 
 102
-00:07:14,490 --> 00:07:20,982
-And if you'd like to hear the full story, the two-hour sleep version of "Ahab Turns for Home" is on the channel.
+00:07:19,223 --> 00:07:21,102
+The Moby-Dick Big Read.
 
 103
-00:07:21,290 --> 00:07:24,991
-Thanks for studying with Unwritten Chapters.
+00:07:21,849 --> 00:07:22,924
+Moby-Dick.
 
 104
-00:07:25,401 --> 00:07:25,386
+00:07:23,807 --> 00:07:30,300
+And if you'd like to hear the full story, the two-hour sleep version of "Ahab Turns for Home" is on the channel.
+
+105
+00:07:30,607 --> 00:07:34,309
+Thanks for studying with Unwritten Chapters.
+
+106
+00:07:34,718 --> 00:07:34,712
 See you in the next one!
 

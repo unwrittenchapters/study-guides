@@ -26,13 +26,41 @@ Watson goes to Dartmoor with the new heir, Sir Henry, while Holmes secretly watc
 
 Holmes discovers that Stapleton is a hidden Baskerville heir who painted a huge dog with phosphorus to look like the legendary hound. On a foggy night the dog attacks Sir Henry, Holmes shoots it, and Stapleton vanishes into the mire.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Sherlock Holmes]
+
+**Sherlock Holmes.** The detective.
+
+[Character card pops up: Dr Watson]
+
+**Dr Watson.** His friend and the narrator.
+
+[Character card pops up: Dr James Mortimer]
+
+**Dr James Mortimer.** The young country doctor who brings the case.
+
+[Character card pops up: Sir Henry Baskerville]
+
+**Sir Henry Baskerville.** The cheerful new heir, raised in Canada.
+
+[Character card pops up: Jack Stapleton]
+
+**Jack Stapleton.** A quiet butterfly collector with a secret.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "The Hound on the Moor." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE WALKING STICK]
 
@@ -80,31 +108,11 @@ Tonight it ended more quietly. Holmes told the police what he'd worked out, and 
 
 And the hound itself stayed at Baskerville Hall.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Sherlock Holmes]
-
-**Sherlock Holmes.** The detective.
-
-[Character card pops up: Dr Watson]
-
-**Dr Watson.** His friend and the narrator.
-
-[Character card pops up: Dr James Mortimer]
-
-**Dr James Mortimer.** The young country doctor who brings the case.
-
-[Character card pops up: Sir Henry Baskerville]
-
-**Sir Henry Baskerville.** The cheerful new heir, raised in Canada.
-
-[Character card pops up: Jack Stapleton]
-
-**Jack Stapleton.** A quiet butterfly collector with a secret.
 
 ## The big ideas
 
@@ -117,6 +125,10 @@ And the hound itself stayed at Baskerville Hall.
 **Place.** Dartmoor's mist, mires and tors make the story feel dangerous.
 
 **Kindness.** Our version shows the "monster" was a victim too.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

@@ -26,13 +26,41 @@ The creature, alone and rejected, hides beside the cottage of the De Lacey famil
 
 Bitter and lonely, the creature takes revenge on Victor's family and asks Victor to make him a companion. Victor refuses, and the two chase each other to the Arctic, where the story is told to a ship's captain.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Victor Frankenstein]
+
+**Victor Frankenstein.** The scientist who creates life and abandons it.
+
+[Character card pops up: The creature]
+
+**The creature.** Gentle at first, made bitter by loneliness.
+
+[Character card pops up: De Lacey]
+
+**De Lacey.** The blind old father in the cottage.
+
+[Character card pops up: Felix and Agatha]
+
+**Felix and Agatha.** His son and daughter.
+
+[Character card pops up: Safie]
+
+**Safie.** Felix's love, who comes from a far-off country.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "The Cottage Door." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: THE HOVEL]
 
@@ -82,31 +110,11 @@ Safie wouldn't look at him for a week, and Felix watched him closely for a month
 
 In the evenings after supper, old De Lacey played the guitar by the fire. The creature sat on the floor beside him, because no chair in the cottage was big enough. Sometimes the old man taught him to play. His fingers were much too large for the strings, but he tried. The family laughed with him, not at him, and he'd never known that feeling before.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Victor Frankenstein]
-
-**Victor Frankenstein.** The scientist who creates life and abandons it.
-
-[Character card pops up: The creature]
-
-**The creature.** Gentle at first, made bitter by loneliness.
-
-[Character card pops up: De Lacey]
-
-**De Lacey.** The blind old father in the cottage.
-
-[Character card pops up: Felix and Agatha]
-
-**Felix and Agatha.** His son and daughter.
-
-[Character card pops up: Safie]
-
-**Safie.** Felix's love, who comes from a far-off country.
 
 ## The big ideas
 
@@ -119,6 +127,10 @@ In the evenings after supper, old De Lacey played the guitar by the fire. The cr
 **Judging by appearance.** Only the blind man can hear who the creature really is.
 
 **Learning.** The creature learns language, books and kindness by watching others.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

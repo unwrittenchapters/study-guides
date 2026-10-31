@@ -26,13 +26,37 @@ One autumn day he walks up into the mountains with his dog, Wolf. A strange litt
 
 He wakes twenty years later. His gun has rusted, his dog is gone, and his beard is a foot long. In the village, King George's picture on the inn sign has become General Washington. The American Revolution has come and gone while he slept.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Rip Van Winkle]
+
+**Rip Van Winkle.** A good-natured villager who avoids work and loves telling stories.
+
+[Character card pops up: Dame Van Winkle]
+
+**Dame Van Winkle.** Rip's wife, who has to run the farm he neglects.
+
+[Character card pops up: Wolf]
+
+**Wolf.** Rip's loyal dog.
+
+[Character card pops up: The little men]
+
+**The little men.** Ghostly sailors said to be Henry Hudson's crew from the ship the *Half Moon*.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Just One Night." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE KAATSKILL MOUNTAINS]
 
@@ -74,27 +98,11 @@ Dame Van Winkle was standing in the doorway when he came up the lane. She had he
 
 And Rip did something he'd never done before. He walked straight up to her, kissed her on the cheek, and said he was sorry. Before she could get over her surprise, he went round the back of the house, picked up the hammer, and began to mend the fence.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Rip Van Winkle]
-
-**Rip Van Winkle.** A good-natured villager who avoids work and loves telling stories.
-
-[Character card pops up: Dame Van Winkle]
-
-**Dame Van Winkle.** Rip's wife, who has to run the farm he neglects.
-
-[Character card pops up: Wolf]
-
-**Wolf.** Rip's loyal dog.
-
-[Character card pops up: The little men]
-
-**The little men.** Ghostly sailors said to be Henry Hudson's crew from the ship the *Half Moon*.
 
 ## The big ideas
 
@@ -107,6 +115,10 @@ And Rip did something he'd never done before. He walked straight up to her, kiss
 **Responsibility.** Our version asks what Rip would do if he got a warning instead of a lost twenty years.
 
 **How stories grow.** Irving pretends the tale was found in an old historian's papers. Our version shows a true story getting bigger each time it's told.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

@@ -1,9 +1,9 @@
 1
-00:00:05,449 --> 00:00:13,920
+00:00:05,449 --> 00:00:13,919
 In Dracula, a ship drifts into Whitby harbour in a storm with fifty boxes of earth on board, and Mina Murray reads all about it in the
 
 2
-00:00:13,920 --> 00:00:14,802
+00:00:13,919 --> 00:00:14,801
 newspaper.
 
 3
@@ -15,7 +15,7 @@ This guide covers the novel and a version where she reads it twice.
 Hello, and welcome to Unwritten Chapters, Study Edition.
 
 5
-00:00:24,271 --> 00:00:28,331
+00:00:24,271 --> 00:00:28,329
 In the next few minutes, I'll walk you through Dracula, by Bram Stoker.
 
 6
@@ -75,350 +75,358 @@ With Lucy's friends, and with Mina's careful notes, they track down the boxes on
 In the end they follow him home to Transylvania.
 
 20
-00:01:43,533 --> 00:01:45,626
-Now for the story.
+00:01:42,637 --> 00:01:46,300
+Next, who's who, so you can keep everyone straight.
 
 21
-00:01:45,922 --> 00:01:50,117
-Our sleep story for this book is called "Mina Keeps Watch."
-
-22
-00:01:50,381 --> 00:01:53,406
-Here's how it unfolds, chapter by chapter.
-
-23
-00:01:54,079 --> 00:01:55,174
-Chapter one.
-
-24
-00:01:55,343 --> 00:01:56,988
-The Storm at Whitby.
-
-25
-00:01:57,785 --> 00:02:03,145
-Mina Murray is spending the summer in Whitby with her best friend, Lucy Westenra.
-
-26
-00:02:03,376 --> 00:02:11,271
-Every afternoon they sit on a bench in the churchyard on the East Cliff, below the ruined abbey, and Mina writes in her journal.
-
-27
-00:02:11,567 --> 00:02:17,203
-She's worried, because her fiancé, Jonathan, has stopped writing from Transylvania.
-
-28
-00:02:17,892 --> 00:02:21,963
-On the night of the eighth of August, a great storm blows in.
-
-29
-00:02:22,225 --> 00:02:28,528
-A Russian ship, the Demeter, runs aground below the cliff with her captain dead at the wheel.
-
-30
-00:02:28,837 --> 00:02:32,422
-A huge dog leaps ashore and vanishes up the cliff.
-
-31
-00:02:33,157 --> 00:02:34,292
-Chapter two.
-
-32
-00:02:34,473 --> 00:02:35,743
-The Captain's Log.
-
-33
-00:02:36,343 --> 00:02:38,657
-The newspaper prints the captain's log.
-
-34
-00:02:38,923 --> 00:02:42,643
-In the book, Mina finds it sad and turns the page.
-
-35
-00:02:42,889 --> 00:02:45,964
-Tonight, she reads it twice and makes a list.
-
-36
-00:02:46,122 --> 00:02:52,834
-The cargo was fifty boxes of earth, sent to a solicitor on the Crescent, a few doors from where she's staying.
-
-37
-00:02:53,184 --> 00:03:00,226
-She puts on her hat and gloves, visits him, and learns the boxes are going by train to Carfax, near London.
-
-38
-00:03:00,553 --> 00:03:05,160
-It's the house Jonathan went abroad to sell, right next to Dr Seward's hospital.
-
-39
-00:03:05,503 --> 00:03:11,095
-Mina writes to Dr Seward, and that night she ties Lucy's door key to her own wrist.
-
-40
-00:03:11,632 --> 00:03:12,793
-Chapter three.
-
-41
-00:03:13,057 --> 00:03:14,406
-Fifty Boxes.
-
-42
-00:03:14,871 --> 00:03:20,010
-Dr Seward sends for his old teacher, Professor Van Helsing, who comes at once.
-
-43
-00:03:20,300 --> 00:03:26,209
-He reads Mina's notes and hangs garlic flowers around Lucy's window, and Lucy sleeps safely.
-
-44
-00:03:26,602 --> 00:03:32,011
-Then the friends go to Carfax and find all fifty boxes together in the old chapel.
-
-45
-00:03:32,345 --> 00:03:35,699
-Van Helsing crumbles a little holy bread into each one.
-
-46
-00:03:36,059 --> 00:03:39,584
-In the book, that's how the earth is made useless to the Count.
-
-47
-00:03:39,901 --> 00:03:46,492
-Mina checks every box against her list, and when they reach the last one, she draws a neat line under the column.
-
-48
-00:03:46,805 --> 00:03:48,853
-Fifty. That's all of them.
-
-49
-00:03:49,596 --> 00:03:50,945
-The Last Page.
-
-50
-00:03:51,665 --> 00:03:58,331
-The Count arrives to find nowhere to rest, and quietly leaves England on the ship the Czarina Catherine.
-
-51
-00:03:58,688 --> 00:04:04,635
-Lucy marries Arthur, and Mina goes to Budapest to marry Jonathan, just as she does in the book.
-
-52
-00:04:05,123 --> 00:04:10,426
-The next summer, they sit together on the bench above Whitby, and Mina shows him her list.
-
-53
-00:04:12,178 --> 00:04:12,664
+00:01:47,898 --> 00:01:48,384
 Mina Murray.
 
-54
-00:04:12,664 --> 00:04:16,757
+22
+00:01:48,384 --> 00:01:52,477
 An assistant schoolmistress who's learning shorthand.
 
-55
-00:04:16,910 --> 00:04:20,055
+23
+00:01:52,630 --> 00:01:55,775
 She notices everything and writes it all down.
 
-56
-00:04:20,707 --> 00:04:22,047
+24
+00:01:56,427 --> 00:01:57,766
 Jonathan Harker.
 
-57
-00:04:22,307 --> 00:04:27,346
+25
+00:01:58,027 --> 00:02:03,066
 Mina's fiancé, a solicitor's clerk sent to Transylvania on business.
 
-58
-00:04:28,127 --> 00:04:29,570
+26
+00:02:03,847 --> 00:02:05,290
 Lucy Westenra.
 
-59
-00:04:29,803 --> 00:04:34,474
+27
+00:02:05,522 --> 00:02:10,191
 Mina's best friend, who receives three marriage proposals in one day.
 
-60
-00:04:35,184 --> 00:04:36,947
+28
+00:02:10,904 --> 00:02:12,667
 Abraham Van Helsing.
 
-61
-00:04:37,184 --> 00:04:42,436
+29
+00:02:12,904 --> 00:02:18,156
 A Dutch professor who knows more about old, strange things than anyone alive.
 
-62
-00:04:43,306 --> 00:04:45,025
+30
+00:02:19,026 --> 00:02:20,745
 Dr John Seward.
 
-63
-00:04:45,251 --> 00:04:48,921
+31
+00:02:20,971 --> 00:02:24,641
 A young doctor who runs a hospital next door to Carfax.
 
-64
-00:04:49,344 --> 00:04:50,639
+32
+00:02:25,064 --> 00:02:26,359
 Count Dracula.
 
-65
-00:04:50,845 --> 00:04:56,878
+33
+00:02:26,565 --> 00:02:32,598
 An ancient nobleman from Transylvania who travels to England with boxes of his own soil.
 
+34
+00:02:34,798 --> 00:02:36,891
+Now for the story.
+
+35
+00:02:37,071 --> 00:02:40,096
+Here's how it unfolds, chapter by chapter.
+
+36
+00:02:40,769 --> 00:02:41,864
+Chapter one.
+
+37
+00:02:42,033 --> 00:02:43,678
+The Storm at Whitby.
+
+38
+00:02:44,475 --> 00:02:49,835
+Mina Murray is spending the summer in Whitby with her best friend, Lucy Westenra.
+
+39
+00:02:50,066 --> 00:02:57,961
+Every afternoon they sit on a bench in the churchyard on the East Cliff, below the ruined abbey, and Mina writes in her journal.
+
+40
+00:02:58,257 --> 00:03:03,893
+She's worried, because her fiancé, Jonathan, has stopped writing from Transylvania.
+
+41
+00:03:04,582 --> 00:03:08,651
+On the night of the eighth of August, a great storm blows in.
+
+42
+00:03:08,915 --> 00:03:15,215
+A Russian ship, the Demeter, runs aground below the cliff with her captain dead at the wheel.
+
+43
+00:03:15,527 --> 00:03:19,112
+A huge dog leaps ashore and vanishes up the cliff.
+
+44
+00:03:19,847 --> 00:03:20,982
+Chapter two.
+
+45
+00:03:21,163 --> 00:03:22,433
+The Captain's Log.
+
+46
+00:03:23,033 --> 00:03:25,347
+The newspaper prints the captain's log.
+
+47
+00:03:25,613 --> 00:03:29,333
+In the book, Mina finds it sad and turns the page.
+
+48
+00:03:29,579 --> 00:03:32,654
+Tonight, she reads it twice and makes a list.
+
+49
+00:03:32,813 --> 00:03:39,524
+The cargo was fifty boxes of earth, sent to a solicitor on the Crescent, a few doors from where she's staying.
+
+50
+00:03:39,874 --> 00:03:46,916
+She puts on her hat and gloves, visits him, and learns the boxes are going by train to Carfax, near London.
+
+51
+00:03:47,243 --> 00:03:51,850
+It's the house Jonathan went abroad to sell, right next to Dr Seward's hospital.
+
+52
+00:03:52,193 --> 00:03:57,785
+Mina writes to Dr Seward, and that night she ties Lucy's door key to her own wrist.
+
+53
+00:03:58,322 --> 00:03:59,480
+Chapter three.
+
+54
+00:03:59,747 --> 00:04:01,096
+Fifty Boxes.
+
+55
+00:04:01,572 --> 00:04:06,700
+Dr Seward sends for his old teacher, Professor Van Helsing, who comes at once.
+
+56
+00:04:06,990 --> 00:04:12,899
+He reads Mina's notes and hangs garlic flowers around Lucy's window, and Lucy sleeps safely.
+
+57
+00:04:13,292 --> 00:04:18,701
+Then the friends go to Carfax and find all fifty boxes together in the old chapel.
+
+58
+00:04:19,035 --> 00:04:22,389
+Van Helsing crumbles a little holy bread into each one.
+
+59
+00:04:22,749 --> 00:04:26,274
+In the book, that's how the earth is made useless to the Count.
+
+60
+00:04:26,591 --> 00:04:33,182
+Mina checks every box against her list, and when they reach the last one, she draws a neat line under the column.
+
+61
+00:04:33,496 --> 00:04:35,543
+Fifty. That's all of them.
+
+62
+00:04:36,286 --> 00:04:37,635
+The Last Page.
+
+63
+00:04:38,355 --> 00:04:45,019
+The Count arrives to find nowhere to rest, and quietly leaves England on the ship the Czarina Catherine.
+
+64
+00:04:45,378 --> 00:04:51,325
+Lucy marries Arthur, and Mina goes to Budapest to marry Jonathan, just as she does in the book.
+
+65
+00:04:51,812 --> 00:04:57,116
+The next summer, they sit together on the bench above Whitby, and Mina shows him her list.
+
 66
-00:04:59,078 --> 00:05:00,492
-Careful noticing.
+00:04:57,736 --> 00:05:01,845
+Next, the big ideas, the ones that come up in class.
 
 67
-00:05:00,753 --> 00:05:05,435
-Mina wins by reading closely, making lists and checking facts.
+00:05:03,640 --> 00:05:05,054
+Careful noticing.
 
 68
-00:05:05,677 --> 00:05:09,220
-Our story shows that patience can be a kind of courage.
+00:05:05,315 --> 00:05:09,997
+Mina wins by reading closely, making lists and checking facts.
 
 69
-00:05:09,735 --> 00:05:11,950
-Stories inside stories.
+00:05:10,239 --> 00:05:13,780
+Our story shows that patience can be a kind of courage.
 
 70
-00:05:12,166 --> 00:05:16,084
-The book is a pile of diaries, letters and news cuttings.
+00:05:14,297 --> 00:05:16,512
+Stories inside stories.
 
 71
-00:05:16,350 --> 00:05:20,752
-Each writer knows only part of the truth until the pieces are put together.
+00:05:16,729 --> 00:05:20,646
+The book is a pile of diaries, letters and news cuttings.
 
 72
-00:05:21,143 --> 00:05:22,543
-Old and new.
+00:05:20,913 --> 00:05:25,314
+Each writer knows only part of the truth until the pieces are put together.
 
 73
-00:05:22,950 --> 00:05:29,502
-The Count is ancient, but his hunters use trains, telegrams, typewriters and shorthand.
+00:05:25,705 --> 00:05:27,105
+Old and new.
 
 74
-00:05:29,792 --> 00:05:31,748
-Modern tools help them win.
+00:05:27,512 --> 00:05:34,064
+The Count is ancient, but his hunters use trains, telegrams, typewriters and shorthand.
 
 75
-00:05:32,566 --> 00:05:33,515
-Teamwork.
+00:05:34,355 --> 00:05:36,310
+Modern tools help them win.
 
 76
-00:05:33,693 --> 00:05:35,883
-No one in the book wins alone.
+00:05:37,129 --> 00:05:38,077
+Teamwork.
 
 77
-00:05:36,097 --> 00:05:38,932
-The friends succeed by sharing what they know.
+00:05:38,255 --> 00:05:40,445
+No one in the book wins alone.
 
 78
-00:05:41,096 --> 00:05:42,614
-So what's the what-if?
+00:05:40,659 --> 00:05:43,494
+The friends succeed by sharing what they know.
 
 79
-00:05:42,722 --> 00:05:44,850
-Here's the turning point we changed.
+00:05:44,114 --> 00:05:47,944
+Next, the exact moment our version changes the book.
 
 80
-00:05:45,534 --> 00:05:51,415
-In our story, Mina reads the Demeter's log in the newspaper and doesn't turn the page.
+00:05:50,341 --> 00:05:51,858
+So what's the what-if?
 
 81
-00:05:51,660 --> 00:05:59,522
-She makes a list, visits the Whitby solicitor who took charge of the cargo, and learns that all fifty boxes are going by train to
+00:05:51,966 --> 00:05:54,094
+Here's the turning point we changed.
 
 82
-00:05:59,522 --> 00:06:04,830
-Carfax, the house Jonathan went abroad to sell, right next to Dr Seward's hospital.
+00:05:54,778 --> 00:06:00,659
+In our story, Mina reads the Demeter's log in the newspaper and doesn't turn the page.
 
 83
-00:06:05,298 --> 00:06:11,157
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+00:06:00,904 --> 00:06:08,766
+She makes a list, visits the Whitby solicitor who took charge of the cargo, and learns that all fifty boxes are going by train to
 
 84
-00:06:13,057 --> 00:06:16,256
-Before we go, here's a little about who wrote it.
+00:06:08,766 --> 00:06:14,074
+Carfax, the house Jonathan went abroad to sell, right next to Dr Seward's hospital.
 
 85
-00:06:17,121 --> 00:06:20,772
-Bram Stoker was born in Dublin in 1847.
+00:06:14,544 --> 00:06:20,401
+Everything after that moment is new, but the characters still act the way their authors wrote them.
 
 86
-00:06:21,084 --> 00:06:25,937
-He was ill for much of his childhood and spent years in bed listening to stories.
+00:06:22,302 --> 00:06:25,500
+Before we go, here's a little about who wrote it.
 
 87
-00:06:26,247 --> 00:06:34,107
-As an adult he managed the Lyceum Theatre in London for nearly thirty years, working for the famous actor Henry Irving.
+00:06:26,365 --> 00:06:30,017
+Bram Stoker was born in Dublin in 1847.
 
 88
-00:06:34,203 --> 00:06:39,953
-He wrote Dracula in his spare time, after years of reading about folklore and visiting Whitby.
+00:06:30,328 --> 00:06:35,181
+He was ill for much of his childhood and spent years in bed listening to stories.
 
 89
-00:06:42,092 --> 00:06:45,447
-Dracula comes from the end of Queen Victoria's reign.
+00:06:35,491 --> 00:06:43,107
+As an adult he managed the Lyceum Theatre in London for nearly thirty years, working for the famous actor Henry Irving.
 
 90
-00:06:45,739 --> 00:06:52,486
-London had gas lamps, steam trains and telegraphs, and newspapers came out several times a day.
+00:06:43,448 --> 00:06:49,195
+He wrote Dracula in his spare time, after years of reading about folklore and visiting Whitby.
 
 91
-00:06:52,778 --> 00:06:59,779
-Typewriters and shorthand were new office skills, and many young women like Mina were learning them to find work.
+00:06:51,336 --> 00:06:54,691
+Dracula comes from the end of Queen Victoria's reign.
 
 92
-00:07:02,121 --> 00:07:03,511
-Want to see the real thing?
+00:06:54,985 --> 00:07:01,730
+London had gas lamps, steam trains and telegraphs, and newspapers came out several times a day.
 
 93
-00:07:03,729 --> 00:07:09,494
-Here are all ten sources from the guide, and every one of them is free to explore online.
+00:07:02,023 --> 00:07:09,023
+Typewriters and shorthand were new office skills, and many young women like Mina were learning them to find work.
 
 94
-00:07:09,889 --> 00:07:12,335
-Bram Stoker's notes for Dracula.
+00:07:11,365 --> 00:07:12,755
+Want to see the real thing?
 
 95
-00:07:12,902 --> 00:07:14,175
-The Rosenbach.
+00:07:12,973 --> 00:07:18,738
+Here are all ten sources from the guide, and every one of them is free to explore online.
 
 96
-00:07:14,473 --> 00:07:15,746
-Whitby Abbey.
+00:07:19,133 --> 00:07:21,579
+Bram Stoker's notes for Dracula.
 
 97
-00:07:16,159 --> 00:07:17,553
-Whitby Museum.
+00:07:22,146 --> 00:07:23,419
+The Rosenbach.
 
 98
-00:07:18,098 --> 00:07:19,591
-The British Library.
+00:07:23,718 --> 00:07:24,990
+Whitby Abbey.
 
 99
-00:07:20,102 --> 00:07:21,678
-Historic England.
+00:07:25,403 --> 00:07:26,797
+Whitby Museum.
 
 100
-00:07:22,194 --> 00:07:23,833
-The Victorian Web.
+00:07:27,342 --> 00:07:28,833
+The British Library.
 
 101
-00:07:24,415 --> 00:07:27,951
-1897 first edition scans.
+00:07:29,346 --> 00:07:30,922
+Historic England.
 
 102
-00:07:28,660 --> 00:07:30,511
-LibriVox audiobook.
+00:07:31,438 --> 00:07:33,077
+The Victorian Web.
 
 103
-00:07:30,944 --> 00:07:31,930
-Dracula.
+00:07:33,659 --> 00:07:37,192
+1897 first edition scans.
 
 104
-00:07:33,118 --> 00:07:39,004
-And if you'd like to hear the full story, the two-hour sleep version of "Mina Keeps Watch" is on the channel.
+00:07:37,905 --> 00:07:39,755
+LibriVox audiobook.
 
 105
-00:07:39,216 --> 00:07:42,662
-Thanks for studying with Unwritten Chapters.
+00:07:40,188 --> 00:07:41,174
+Dracula.
 
 106
-00:07:43,100 --> 00:07:43,097
+00:07:42,363 --> 00:07:48,248
+And if you'd like to hear the full story, the two-hour sleep version of "Mina Keeps Watch" is on the channel.
+
+107
+00:07:48,461 --> 00:07:51,906
+Thanks for studying with Unwritten Chapters.
+
+108
+00:07:52,345 --> 00:07:52,344
 See you in the next one!
 

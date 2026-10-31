@@ -26,13 +26,41 @@ Jo wants to be a writer and hates the idea of giving up her freedom. As they gro
 
 When Laurie proposes, Jo tells him she can't love him that way. He later marries Amy, Beth dies, and Jo marries the professor. They open a school at Plumfield.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Jo March]
+
+**Jo March.** The second sister, a fierce, funny writer.
+
+[Character card pops up: Theodore "Laurie" Laurence]
+
+**Theodore "Laurie" Laurence.** The boy next door. Jo calls him Teddy.
+
+[Character card pops up: Meg, Beth and Amy]
+
+**Meg, Beth and Amy.** Jo's sisters, who are kind, gentle and artistic.
+
+[Character card pops up: Marmee]
+
+**Marmee.** The girls' wise mother.
+
+[Character card pops up: Professor Bhaer]
+
+**Professor Bhaer.** A kind, shabby German teacher Jo meets in New York.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Jo Says Yes." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE WALK HOME]
 
@@ -74,31 +102,11 @@ As she watched his train pull out, she thought about how many good lives a perso
 
 In this story too, Aunt March left Plumfield to Jo. And Jo and Laurie did exactly what anyone who knew them would have expected, and filled it.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Jo March]
-
-**Jo March.** The second sister, a fierce, funny writer.
-
-[Character card pops up: Theodore "Laurie" Laurence]
-
-**Theodore "Laurie" Laurence.** The boy next door. Jo calls him Teddy.
-
-[Character card pops up: Meg, Beth and Amy]
-
-**Meg, Beth and Amy.** Jo's sisters, who are kind, gentle and artistic.
-
-[Character card pops up: Marmee]
-
-**Marmee.** The girls' wise mother.
-
-[Character card pops up: Professor Bhaer]
-
-**Professor Bhaer.** A kind, shabby German teacher Jo meets in New York.
 
 ## The big ideas
 
@@ -111,6 +119,10 @@ In this story too, Aunt March left Plumfield to Jo. And Jo and Laurie did exactl
 **Family.** The March home is poor but full of warmth.
 
 **Choices.** Our story suggests there are many good lives, and the right one is the one that's yours.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

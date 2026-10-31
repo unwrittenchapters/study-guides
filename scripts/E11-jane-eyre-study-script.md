@@ -26,13 +26,41 @@ After eight years at Lowood, Jane becomes a governess at Thornfield Hall and fal
 
 Years later, now independent, Jane returns to find Thornfield burned and Rochester blinded. They marry, as equals.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Jane Eyre]
+
+**Jane Eyre.** A plain, proud, honest orphan.
+
+[Character card pops up: Helen Burns]
+
+**Helen Burns.** Jane's gentle friend, who believes in forgiveness.
+
+[Character card pops up: Miss Temple]
+
+**Miss Temple.** The kind superintendent of Lowood.
+
+[Character card pops up: Mr Brocklehurst]
+
+**Mr Brocklehurst.** The harsh man who runs the school.
+
+[Character card pops up: Mr Rochester]
+
+**Mr Rochester.** The moody master of Thornfield Hall.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Helen Stays." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how our version unfolds, chapter by chapter.
 
 [Chapter card flips in: LOWOOD]
 
@@ -92,31 +120,11 @@ Tonight, it was Helen who read the advertisement with her by candlelight in thei
 
 Jane was frightened. But Helen reminded her of something Jane had once said herself, when she was small and angry and standing up for herself. Years later at Thornfield, Jane would say it again to Mr Rochester, in words readers still remember.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Jane Eyre]
-
-**Jane Eyre.** A plain, proud, honest orphan.
-
-[Character card pops up: Helen Burns]
-
-**Helen Burns.** Jane's gentle friend, who believes in forgiveness.
-
-[Character card pops up: Miss Temple]
-
-**Miss Temple.** The kind superintendent of Lowood.
-
-[Character card pops up: Mr Brocklehurst]
-
-**Mr Brocklehurst.** The harsh man who runs the school.
-
-[Character card pops up: Mr Rochester]
-
-**Mr Rochester.** The moody master of Thornfield Hall.
 
 ## The big ideas
 
@@ -129,6 +137,10 @@ Jane was frightened. But Helen reminded her of something Jane had once said hers
 **Cruelty and kindness.** Lowood shows both, Brocklehurst's coldness and Miss Temple's care.
 
 **Friendship.** Our story imagines what a lifelong friend could have meant to Jane.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

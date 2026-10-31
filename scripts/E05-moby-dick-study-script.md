@@ -26,13 +26,41 @@ The book follows the long voyage across the oceans, mixing adventure with chapte
 
 Ahab won't turn back. The *Pequod* finds the white whale, and after a three-day chase the ship is destroyed. Only Ishmael survives to tell the story.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Ishmael]
+
+**Ishmael.** The narrator, a thoughtful young sailor who goes to sea when he feels gloomy.
+
+[Character card pops up: Captain Ahab]
+
+**Captain Ahab.** The *Pequod*'s captain, who has a whalebone leg and wants revenge on the white whale.
+
+[Character card pops up: Starbuck]
+
+**Starbuck.** The careful first mate from Nantucket, who has a wife and young son at home.
+
+[Character card pops up: Queequeg]
+
+**Queequeg.** A harpooneer from a South Sea island, and Ishmael's closest friend.
+
+[Character card pops up: Moby Dick]
+
+**Moby Dick.** The great white whale, famous all over the ocean.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Ahab Turns for Home." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: LOOMINGS]
 
@@ -68,31 +96,11 @@ The Last Page.
 
 Ahab gives the gold coin to Starbuck, for the boy. The ship sails the long way home, and the white whale swims on, free. One summer morning, a little boy on the hill above Nantucket sees a sail. Years later, Ishmael writes the whole story down, and begins it with the same three words.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Ishmael]
-
-**Ishmael.** The narrator, a thoughtful young sailor who goes to sea when he feels gloomy.
-
-[Character card pops up: Captain Ahab]
-
-**Captain Ahab.** The *Pequod*'s captain, who has a whalebone leg and wants revenge on the white whale.
-
-[Character card pops up: Starbuck]
-
-**Starbuck.** The careful first mate from Nantucket, who has a wife and young son at home.
-
-[Character card pops up: Queequeg]
-
-**Queequeg.** A harpooneer from a South Sea island, and Ishmael's closest friend.
-
-[Character card pops up: Moby Dick]
-
-**Moby Dick.** The great white whale, famous all over the ocean.
 
 ## The big ideas
 
@@ -105,6 +113,10 @@ Ahab gives the gold coin to Starbuck, for the boy. The ship sails the long way h
 **Choice.** In the book, Ahab says he can't stop. Our story asks what happens if he chooses differently.
 
 **The size of the sea.** Melville fills the book with facts about whales and oceans to show how huge and mysterious the natural world is.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 

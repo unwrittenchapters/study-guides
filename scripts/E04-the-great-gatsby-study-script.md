@@ -26,13 +26,41 @@ Gatsby throws giant parties every weekend. Nick learns that Gatsby and Daisy lov
 
 Gatsby wants to repeat the past exactly. The summer ends in a car accident, a death, and a funeral almost nobody attends. Nick goes home to the Midwest, thinking about the green light at the end of Daisy's dock.
 
+[upbeat]
+
+Next, who's who, so you can keep everyone straight.
+
 [Beat. Music sting.]
+
+## Who's who
+
+[quick and lively]
+
+[Character card pops up: Nick Carraway]
+
+**Nick Carraway.** The narrator, a young bond salesman who tries not to judge people.
+
+[Character card pops up: Jay Gatsby]
+
+**Jay Gatsby.** A rich, mysterious man who's spent five years trying to win back Daisy.
+
+[Character card pops up: Daisy Buchanan]
+
+**Daisy Buchanan.** Nick's cousin, Gatsby's old love.
+
+[Character card pops up: Tom Buchanan]
+
+**Tom Buchanan.** Daisy's wealthy, bullying husband.
+
+[Character card pops up: Pammy]
+
+**Pammy.** Daisy and Tom's young daughter.
 
 ## The story, chapter by chapter
 
 [storytelling, warm but lively]
 
-Now for the story. Our sleep story for this book is called "Tea Before the Parties." Here's how it unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE GREEN LIGHT]
 
@@ -82,31 +110,11 @@ He told Nick he was going west to start again. He wasn't going to get rich, beca
 
 Then, early one misty morning, his car went down the drive, past Nick's little house, and out onto the road, and he was gone.
 
+[upbeat]
+
+Next, the big ideas, the ones that come up in class.
+
 [Beat. Music sting.]
-
-## Who's who
-
-[quick and lively]
-
-[Character card pops up: Nick Carraway]
-
-**Nick Carraway.** The narrator, a young bond salesman who tries not to judge people.
-
-[Character card pops up: Jay Gatsby]
-
-**Jay Gatsby.** A rich, mysterious man who's spent five years trying to win back Daisy.
-
-[Character card pops up: Daisy Buchanan]
-
-**Daisy Buchanan.** Nick's cousin, Gatsby's old love.
-
-[Character card pops up: Tom Buchanan]
-
-**Tom Buchanan.** Daisy's wealthy, bullying husband.
-
-[Character card pops up: Pammy]
-
-**Pammy.** Daisy and Tom's young daughter.
 
 ## The big ideas
 
@@ -119,6 +127,10 @@ Then, early one misty morning, his car went down the drive, past Nick's little h
 **Appearances.** The parties, the shirts and the mansion are all part of a show.
 
 **Letting go.** Our version imagines Gatsby choosing to stop reaching for the green light.
+
+[upbeat]
+
+Next, the exact moment our version changes the book.
 
 [Beat. Music sting.]
 
