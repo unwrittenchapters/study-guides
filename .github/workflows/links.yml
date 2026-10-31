@@ -1,0 +1,16 @@
+name: Check links
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 1 * *'
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check every link in the guides and site
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --exclude 'YOUTUBE_ID_' --exclude 'GITHUB_USER' --max-retries 3 --accept 200,201,202,203,204,206,301,302,303,307,308,403,429 './**/*.md' './docs/**/*.html'
+          fail: true
