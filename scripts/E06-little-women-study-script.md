@@ -10,7 +10,7 @@ When Laurie asks Jo March to marry him, she says no, and readers have argued abo
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Little Women, by Louisa May Alcott. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Little Women, by Louisa May Alcott.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 The four March sisters, Meg, Jo, Beth and Amy, live with their mother, Marmee, while their father serves in the Civil War. They're poor, but their home is full of love, plays and writing. Next door lives Laurie, a lonely rich boy who becomes their best friend.
 
 Jo wants to be a writer and hates the idea of giving up her freedom. As they grow up, Meg marries, Beth falls ill, and Jo goes to New York to work and write. There she meets Professor Bhaer.
-
-When Laurie proposes, Jo tells him she can't love him that way. He later marries Amy, Beth dies, and Jo marries the professor. They open a school at Plumfield.
 
 [upbeat]
 
@@ -112,29 +110,87 @@ Next, the big ideas, the ones that come up in class.
 
 [curious]
 
-**Liberty.** Jo fears that marriage will take her freedom. The book and our story answer that fear differently.
+**Liberty.** Jo fears that marriage will take her freedom. The book answers that fear in a surprising way.
 
 **Work and art.** Jo writes for money and for love, and must decide which stories are true to her.
 
 **Family.** The March home is poor but full of warmth.
 
-**Choices.** Our story suggests there are many good lives, and the right one is the one that's yours.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Choices.** The book suggests there are many good lives, and the right one is the one that's yours.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 1]
+
+"I don't believe I shall ever marry. I'm happy as I am, and love my liberty too well to be in a hurry to give it up for any mortal man."
+
+Jo says she loves her freedom too much to marry.
+
+[Quote card: 0]
+
+"I've loved you ever since I've known you, Jo; couldn't help it, you've been so good to me."
+
+Laurie's proposal, the moment Jo has to choose.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Jo says yes when Laurie proposes under the willow?
 
-In our story, Jo says yes under the willow by the river. Their marriage has quarrels, but they stay best friends.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · They part]
+
+Path A. They marry, but they quarrel so much that they part. It could happen: Jo and Laurie both have quick tempers. But they've made up after every fight since childhood.
+
+[Path card: B · Jo loses her writing]
+
+Path B. Jo says yes, then feels she's lost her writing life. It could happen: Jo is afraid of losing her freedom. But Laurie has never asked her to stop writing.
+
+[Path card: C · Best friends for life]
+
+Path C. They marry, they still quarrel, but they stay best friends, and Jo keeps writing. This one fits the characters: They've been best friends since they were young. Laurie is proud of Jo's stories.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Alcott writes Jo and Laurie as true friends who forgive each other quickly, and Laurie always cheers on Jo's writing.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Jo says no. Laurie marries her sister Amy, and Jo later marries Professor Bhaer and opens a school with him.
+
+[thoughtfully]
+
+Why did Louisa May Alcott choose it? Alcott wanted Jo to stay single, but her publisher and readers pushed for a wedding. So she gave Jo an unexpected husband instead of the one everyone expected.
 
 [Beat.]
 
@@ -203,6 +259,8 @@ Little Women.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Jo Says Yes" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

@@ -10,7 +10,7 @@ Thirty years after he last saw her, Newland Archer sits below Ellen Olenska's wi
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Age of Innocence, by Edith Wharton. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Age of Innocence, by Edith Wharton.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Newland Archer, a young lawyer from old New York society, is engaged to the lovely, proper May Welland. Then he meets May's cousin, Countess Ellen Olenska, who has left her cruel husband in Europe and come home.
 
 Ellen is honest and unconventional, and Newland falls in love with her. He asks her to run away with him, but she refuses, because it would hurt May. Newland marries May, and Ellen returns to Paris.
-
-Decades pass. After May's death, Newland's son Dallas takes him to Paris and tells him May always knew he'd given up the thing he wanted most. Outside Ellen's apartment, Newland sits on a bench, decides not to go up, and walks away.
 
 [upbeat]
 
@@ -56,7 +54,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE OPERA]
 
@@ -130,23 +128,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Change over time.** The world of the 1870s fades into telephones and motor cars.
 
-**Second chances.** Our story imagines a door left open.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Second chances.** The ending asks whether it's ever too late.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 1]
+
+"It's more real to me here than if I went up."
+
+Newland fears that going up would spoil his memory.
+
+[Quote card: 0]
+
+"On a January evening of the early seventies, Christine Nilsson was singing in Faust at the Academy of Music in New York."
+
+The opening night at the opera, where New York society watches itself.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Ellen steps onto the balcony in Paris and sees Newland waiting below?
 
-In our story, Ellen steps onto the balcony, sees him, and smiles. Newland climbs the five flights, and the door is already open.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · He walks away]
+
+Path A. He stays on the bench and walks away, as he does in the book. It could happen: Newland has lived by the rules for thirty years. But here, Ellen has already seen him.
+
+[Path card: B · She stays inside]
+
+Path B. She sees him, but doesn't come down. It could happen: Ellen may want to keep the past in the past. But she's the one who stepped out onto the balcony.
+
+[Path card: C · The door is open]
+
+Path C. She smiles, and he climbs the five flights to a door that's already open. This one fits the characters: Ellen was always warm to Newland. His wife May has died, and his son brought him there.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Wharton writes Ellen as warm and honest all through the book. If she saw him, a smile would come first.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Newland sits on a bench below Ellen's window in Paris, then walks back to his hotel alone. He chooses the memory over the meeting.
+
+[thoughtfully]
+
+Why did Edith Wharton choose it? Wharton shows how a whole life of duty shaped him, and how some choices can't be undone after thirty years.
 
 [Beat.]
 
@@ -215,6 +271,8 @@ The Age of Innocence.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Newland Goes Up" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

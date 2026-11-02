@@ -10,6 +10,7 @@
 | **Setting** | Geneva, the German forests and the Arctic, 1790s |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/84) |
 | **Study script** | [Read-aloud script](../scripts/E13-frankenstein-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E13) · [captions](../captions/E13-frankenstein.srt) |
 
 > Frankenstein's creature spends a winter secretly helping a poor family. This guide covers the novel and a version where they let him in.
 

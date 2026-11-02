@@ -10,7 +10,7 @@ America's most famous sleep story is about a man who naps for twenty years. This
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Rip Van Winkle, by Washington Irving. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Rip Van Winkle, by Washington Irving.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Rip Van Winkle is a kind, lazy man in a Dutch village at the foot of the Catskill Mountains. He'll help anyone with their work but never does his own, and his wife scolds him constantly.
 
 One autumn day he walks up into the mountains with his dog, Wolf. A strange little man asks for help carrying a keg, and leads him to a hollow where men in old Dutch clothes are silently playing ninepins. Rip drinks from their flagon and falls asleep.
-
-He wakes twenty years later. His gun has rusted, his dog is gone, and his beard is a foot long. In the village, King George's picture on the inn sign has become General Washington. The American Revolution has come and gone while he slept.
 
 [upbeat]
 
@@ -112,25 +110,83 @@ Next, the big ideas, the ones that come up in class.
 
 **Identity.** When Rip says "I'm not myself," he means the world has changed so much he doesn't know where he fits.
 
-**Responsibility.** Our version asks what Rip would do if he got a warning instead of a lost twenty years.
+**Responsibility.** It asks what Rip would do with a warning instead of twenty lost years.
 
-**How stories grow.** Irving pretends the tale was found in an old historian's papers. Our version shows a true story getting bigger each time it's told.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**How stories grow.** Irving pretends the tale was found in an old historian's papers. It shows how a story grows bigger each time it's told.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 1]
+
+"I'm not myself—I'm somebody else."
+
+Rip is so confused that he isn't sure who he is. That's the story's big question about identity.
+
+[Quote card: 0]
+
+"Whoever has made a voyage up the Hudson must remember the Kaatskill mountains."
+
+Irving starts in a real place, so the strange tale feels true.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Rip takes only one small sip and sleeps for a single night?
 
-In our story, Rip takes only one small sip and sleeps for a single night. But he dreams the whole twenty years, and wakes up knowing what he'd lose.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · He laughs it off]
+
+Path A. He wakes up, laughs it off, and goes straight back to avoiding work. It could happen: Rip has ignored warnings for years. But a dream of twenty lost years is hard to laugh off.
+
+[Path card: B · A village joke]
+
+Path B. He tells the tavern about the little men, and the story turns him into a village joke. It could happen: Rip loves telling stories at the inn. But he'd be too shaken to turn this one into a joke.
+
+[Path card: C · He wakes up changed]
+
+Path C. He dreams the whole twenty years, wakes up knowing what he'd lose, and starts helping at home. This one fits the characters: Rip is kind to children and neighbours. In the book, losing twenty years is what finally hurts him.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Irving's Rip is lazy but kind, and loved by the children and neighbours. A scare that shows him the time he'd lose would really reach him.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Rip sleeps for twenty years. He wakes to a new country. His wife has died, his daughter is grown, and the King's portrait at the inn has become George Washington.
+
+[thoughtfully]
+
+Why did Washington Irving choose it? Irving shows how much can change while one man stands still, and he pokes fun at a man who slept through a revolution.
 
 [Beat.]
 
@@ -199,6 +255,8 @@ The Sketch Book.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Just One Night" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

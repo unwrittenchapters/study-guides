@@ -10,7 +10,7 @@ Jay Gatsby throws huge parties to win back Daisy Buchanan. This guide covers the
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Great Gatsby, by F. Scott Fitzgerald. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Great Gatsby, by F. Scott Fitzgerald.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Nick Carraway moves to West Egg, on Long Island, and rents a small house next to the mansion of the mysterious Jay Gatsby. Across the bay lives Nick's cousin Daisy and her husband, Tom Buchanan.
 
 Gatsby throws giant parties every weekend. Nick learns that Gatsby and Daisy loved each other five years earlier, before the war, and that everything Gatsby owns is meant to win her back. Nick arranges for them to meet again over tea.
-
-Gatsby wants to repeat the past exactly. The summer ends in a car accident, a death, and a funeral almost nobody attends. Nick goes home to the Midwest, thinking about the green light at the end of Daisy's dock.
 
 [upbeat]
 
@@ -126,23 +124,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Appearances.** The parties, the shirts and the mansion are all part of a show.
 
-**Letting go.** Our version imagines Gatsby choosing to stop reaching for the green light.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Letting go.** The book asks whether Gatsby could ever stop reaching for the green light.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 1]
+
+"Can't repeat the past? Why of course you can!"
+
+Gatsby refuses to accept that time moves on.
+
+[Quote card: 2]
+
+"So we beat on, boats against the current, borne back ceaselessly into the past."
+
+The last line. We keep pushing forward while the past pulls us back.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Gatsby asks Nick to arrange the tea in June, in person, with no parties first?
 
-In our story, Gatsby asks Nick for the tea in June, in person, with no parties first. The meeting goes the same way, awkward then joyful, but the summer stays quiet.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · Daisy says no]
+
+Path A. Daisy is overwhelmed and refuses to see him again. It could happen: Daisy is married, with a young daughter. But she cried over Gatsby's letter before her wedding.
+
+[Path card: B · Tom finds out]
+
+Path B. Tom hears about it right away, and the big argument comes early. It could happen: Tom is suspicious and controlling. But a quiet tea is much harder to notice than a party.
+
+[Path card: C · A quiet summer]
+
+Path C. The meeting is awkward, then joyful, and without the parties the summer stays quiet and private. This one fits the characters: Gatsby's parties were only ever meant to draw Daisy in. Nick is a calm go-between.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Fitzgerald shows the real reunion as nervous, then happy. The parties were Gatsby's show for Daisy, not something she asked for.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Gatsby throws huge parties for years, hoping Daisy will wander in. The reunion happens, but the summer ends with a car accident, a killing, and Gatsby shot in his pool. Almost no one comes to his funeral.
+
+[thoughtfully]
+
+Why did F. Scott Fitzgerald choose it? Fitzgerald shows that Gatsby's dream of repeating the past could never come true, however much money he had.
 
 [Beat.]
 
@@ -211,6 +267,8 @@ The Great Gatsby.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Tea Before the Parties" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

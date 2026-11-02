@@ -49,7 +49,7 @@ The words are old, but you can already hear the voice of the book.
 
 ## Big ideas
 
-- **Careful noticing.** Mina wins by reading closely, making lists and checking facts. Our story shows that patience can be a kind of courage.
+- **Careful noticing.** Mina wins by reading closely, making lists and checking facts. Her careful work shows that patience can be a kind of courage.
 - **Stories inside stories.** The book is a pile of diaries, letters and news cuttings. Each writer knows only part of the truth until the pieces are put together.
 - **Old and new.** The Count is ancient, but his hunters use trains, telegrams, typewriters and shorthand. Modern tools help them win.
 - **Teamwork.** No one in the book wins alone. The friends succeed by sharing what they know.

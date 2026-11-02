@@ -10,6 +10,7 @@
 | **Setting** | The Kent marshes and London, early 1800s |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/1400) |
 | **Study script** | [Read-aloud script](../scripts/E14-great-expectations-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E14) · [captions](../captions/E14-great-expectations.srt) |
 
 > A lawyer tells Pip that a secret stranger wants to make him a gentleman. This guide covers the novel and a version where Pip stays with Joe at the forge.
 
@@ -51,7 +52,7 @@ The words are old, but you can already hear the voice of the book.
 - **Shame and home.** Pip learns to be ashamed of the people who love him.
 - **Social class.** Dickens asks what really makes a "gentleman."
 - **Loyalty.** Joe never stops loving Pip.
-- **Choosing your life.** Our version imagines Pip choosing the forge freely.
+- **Choosing your life.** Pip has to learn which life is really his.
 
 ## Key quotes
 

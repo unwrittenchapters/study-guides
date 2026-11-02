@@ -10,7 +10,7 @@ Frankenstein's creature spends a winter secretly helping a poor family. This gui
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Frankenstein, by Mary Shelley. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Frankenstein, by Mary Shelley.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Victor Frankenstein, a young scientist, builds a creature from old parts and brings it to life. Horrified by how it looks, he runs away.
 
 The creature, alone and rejected, hides beside the cottage of the De Lacey family. By listening through the wall he learns to speak and read, and he secretly cuts their firewood. When he finally meets the blind father, the son returns and drives him out.
-
-Bitter and lonely, the creature takes revenge on Victor's family and asks Victor to make him a companion. Victor refuses, and the two chase each other to the Arctic, where the story is told to a ship's captain.
 
 [upbeat]
 
@@ -60,7 +58,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE HOVEL]
 
@@ -128,21 +126,79 @@ Next, the big ideas, the ones that come up in class.
 
 **Learning.** The creature learns language, books and kindness by watching others.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"I was benevolent and good; misery made me a fiend."
+
+The creature says he started out good, and loneliness made him a monster.
+
+[Quote card: 1]
+
+"I am blind and cannot judge of your countenance, but there is something in your words which persuades me that you are sincere."
+
+De Lacey can't see the creature, so he judges him by his words.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if the blind old man stands between his son and the creature and says, "This is our friend"?
 
-In our story, the blind old man stands between his son and the creature and says, "This is our friend." Agatha realises who's been cutting their wood all winter.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · Felix drives him away]
+
+Path A. Felix drives the creature away, as he does in the book. It could happen: Felix sees only how the creature looks. But his father is standing in the way.
+
+[Path card: B · The family flees]
+
+Path B. The family runs from the cottage in fear. It could happen: The family are poor exiles, used to running from danger. But De Lacey is calm, and the others trust him.
+
+[Path card: C · A friend at last]
+
+Path C. De Lacey stands firm, and Agatha realises who's been cutting their wood all winter. This one fits the characters: De Lacey has already spoken kindly with the creature. Someone has been helping the family all winter.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Shelley's De Lacey is kind and judges people by their voice, not their looks. He'd already welcomed the creature.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Felix attacks the creature, and the family flees. Rejected again, the creature burns the cottage and turns to revenge against Victor. The story ends in the Arctic, with Victor dead and the creature leaving to die.
+
+[thoughtfully]
+
+Why did Mary Shelley choose it? Shelley shows that cruelty and abandonment, not the way he was made, are what turn the creature into a monster.
 
 [Beat.]
 
@@ -211,6 +267,8 @@ Frankenstein.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "The Cottage Door" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

@@ -10,7 +10,7 @@ Near the end of Moby-Dick, on a calm blue morning, Captain Ahab almost turns his
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Moby-Dick, by Herman Melville. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Moby-Dick, by Herman Melville.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 A young sailor who asks us to call him Ishmael signs on to a whaling ship from Nantucket called the *Pequod*. Its captain, Ahab, has lost a leg to a giant white sperm whale called Moby Dick, and he's sworn to find it. He nails a gold coin to the mast for whoever sees the whale first.
 
 The book follows the long voyage across the oceans, mixing adventure with chapters about whales, ships and the sea. Near the end, in a chapter called "The Symphony," Ahab talks gently with his first mate, Starbuck, about the wife and child he left at home. Starbuck begs him to turn back.
-
-Ahab won't turn back. The *Pequod* finds the white whale, and after a three-day chase the ship is destroyed. Only Ishmael survives to tell the story.
 
 [upbeat]
 
@@ -110,25 +108,83 @@ Next, the big ideas, the ones that come up in class.
 
 **Home.** Starbuck keeps thinking of his wife and son. The calm chapter "The Symphony" shows Ahab remembering home too.
 
-**Choice.** In the book, Ahab says he can't stop. Our story asks what happens if he chooses differently.
+**Choice.** In the book, Ahab says he can't stop. A what-if asks what happens if he chooses differently.
 
 **The size of the sea.** Melville fills the book with facts about whales and oceans to show how huge and mysterious the natural world is.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"Call me Ishmael."
+
+One of the most famous first lines in literature. Ishmael is the survivor who tells the tale.
+
+[Quote card: 2]
+
+"Away with me! let us fly these deadly waters! let us home!"
+
+Starbuck begs Ahab to turn for home, the biggest turning point in the book.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if on that calm blue morning, Ahab listens when Starbuck begs him to turn for home?
 
-In our story, everything happens as it does in the book until that calm blue morning in "The Symphony." Starbuck begs Ahab to turn for home, and this time Ahab doesn't look away. He calls the crew and orders the ship about.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · The hunt goes on]
+
+Path A. Ahab refuses, as he does in the book, and the hunt goes on. It could happen: Ahab has sworn the whole crew to the hunt. But this is the one moment he's thinking of home.
+
+[Path card: B · Starbuck takes over]
+
+Path B. Starbuck takes the ship from Ahab by force. It could happen: Starbuck once aims a musket at Ahab. But he lowers it. He believes in duty.
+
+[Path card: C · Ahab turns for home]
+
+Path C. Ahab thinks of his wife and young son, and orders the ship about. This one fits the characters: Melville shows Ahab crying as he remembers home. Starbuck asks at the moment Ahab is softest.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. In that chapter, Ahab is closer to turning back than anywhere else in the book. One honest plea at the right moment could tip him.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Ahab looks away, and the chase goes on. Over three days, Moby Dick wrecks the boats and sinks the Pequod. Ahab is dragged under by his own harpoon line, and only Ishmael survives, floating on Queequeg's coffin.
+
+[thoughtfully]
+
+Why did Herman Melville choose it? Melville shows where obsession leads. Ahab had every chance to turn back.
 
 [Beat.]
 
@@ -197,6 +253,8 @@ Moby-Dick.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Ahab Turns for Home" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

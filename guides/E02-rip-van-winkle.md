@@ -51,8 +51,8 @@ The words are old, but you can already hear the voice of the book.
 
 - **Time and change.** The village changes from a British colony to part of the United States while Rip sleeps. Irving shows history happening to ordinary people.
 - **Identity.** When Rip says "I'm not myself," he means the world has changed so much he doesn't know where he fits.
-- **Responsibility.** Our version asks what Rip would do if he got a warning instead of a lost twenty years.
-- **How stories grow.** Irving pretends the tale was found in an old historian's papers. Our version shows a true story getting bigger each time it's told.
+- **Responsibility.** It asks what Rip would do with a warning instead of twenty lost years.
+- **How stories grow.** Irving pretends the tale was found in an old historian's papers. It shows how a story grows bigger each time it's told.
 
 ## Key quotes
 

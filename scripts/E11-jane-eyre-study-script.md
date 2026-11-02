@@ -10,7 +10,7 @@ At a cold charity school, young Jane Eyre finds her first true friend, Helen Bur
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Jane Eyre, by Charlotte Brontë. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Jane Eyre, by Charlotte Brontë.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Jane Eyre is an orphan raised by a cruel aunt. At ten she's sent to Lowood, a harsh charity school run by Mr Brocklehurst. There she meets the kind teacher Miss Temple and a patient older girl, Helen Burns, who becomes her best friend. Helen dies of illness during a fever outbreak.
 
 After eight years at Lowood, Jane becomes a governess at Thornfield Hall and falls in love with its owner, Mr Rochester. On their wedding day she learns he's already married to a woman hidden in the attic, and she leaves.
-
-Years later, now independent, Jane returns to find Thornfield burned and Rochester blinded. They marry, as equals.
 
 [upbeat]
 
@@ -60,7 +58,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: LOWOOD]
 
@@ -136,23 +134,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Cruelty and kindness.** Lowood shows both, Brocklehurst's coldness and Miss Temple's care.
 
-**Friendship.** Our story imagines what a lifelong friend could have meant to Jane.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Friendship.** Helen shows what one true friend can mean to Jane.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"Life appears to me too short to be spent in nursing animosity or registering wrongs."
+
+Helen believes life is too short to hold grudges.
+
+[Quote card: 1]
+
+"I am no bird; and no net ensnares me: I am a free human being with an independent will."
+
+Jane declares that she's free to choose her own life.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Miss Temple notices Helen's cough and sends her to a cottage by the sea?
 
-In our story, Miss Temple notices Helen's cough and sends her to her sister's cottage by the sea. Helen writes to Jane every Saturday and comes back in September, strong and brown from the sun.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · The fever still comes]
+
+Path A. Helen stays at Lowood and falls ill when the fever comes. It could happen: Lowood is cold and damp, and the fever spreads fast. But Helen would be far away by the sea.
+
+[Path card: B · No money for it]
+
+Path B. Mr Brocklehurst refuses to pay, and Helen has to stay. It could happen: Mr Brocklehurst cuts costs everywhere. But Miss Temple has gone around his rules before, like ordering bread and cheese for the girls.
+
+[Path card: C · Helen gets well]
+
+Path C. Helen recovers in the sea air, writes to Jane every Saturday, and comes back strong in September. This one fits the characters: Miss Temple already cares for Helen. Sea air was a common cure for weak lungs.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Brontë writes Miss Temple as the one adult at Lowood who acts on kindness, and she already looks after Helen.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, typhus sweeps through Lowood, and Helen dies of consumption in Jane's arms. Her faith in forgiveness stays with Jane for the rest of her life.
+
+[thoughtfully]
+
+Why did Charlotte Brontë choose it? Brontë based Helen on her own older sisters, Maria and Elizabeth, who died after falling ill at their boarding school.
 
 [Beat.]
 
@@ -221,6 +277,8 @@ Jane Eyre.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Helen Stays" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

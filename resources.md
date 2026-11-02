@@ -1,4 +1,4 @@
-# All 150 sources
+# All 220 sources
 
 Museums, archives, historic sites, manuscripts, first editions and free texts for every guide.
 
@@ -226,3 +226,108 @@ Museums, archives, historic sites, manuscripts, first editions and free texts fo
 | [The Pulitzer Prizes, 1921](https://www.pulitzer.org/prize-winners-by-year/1921) | Primary source |
 | [Musée Carnavalet, Paris](https://www.carnavalet.paris.fr/) | Museum |
 | [*The Age of Innocence* (free text)](https://www.gutenberg.org/ebooks/541) | Free text |
+
+## E16 · Dr Jekyll and Mr Hyde
+
+| Source | Type |
+|---|---|
+| [The Morgan Library & Museum, Jekyll and Hyde manuscript](https://www.themorgan.org/collection/robert-louis-stevenson/dr-jekyll-and-mr-hyde) | Manuscript |
+| [National Library of Scotland, Stevenson manuscripts](https://digital.nls.uk/rlstevenson/manuscripts.html) | Archive |
+| [The Robert Louis Stevenson Website](https://robert-louis-stevenson.org/) | Archive |
+| [The Writers' Museum, Edinburgh](https://cultureedinburgh.com/our-venues/writers-museum) | Museum |
+| [Robert Louis Stevenson Museum](https://stevensonmuseum.org/) | Museum |
+| [Stevenson House, Monterey](https://parks.ca.gov/?page_id=30491) | Historic site |
+| [Stevenson in Bournemouth](https://robert-louis-stevenson.org/bournemouth/) | Digital tour |
+| [1886 first edition scans](https://archive.org/details/strangecaseofdrj00stevrich) | First edition |
+| [LibriVox audiobook](https://librivox.org/the-strange-case-of-jekyll-and-hyde-by-robert-louis-stevenson/) | Audio |
+| [Strange Case of Dr Jekyll and Mr Hyde](https://www.gutenberg.org/ebooks/43) | Free text |
+
+## E17 · The Scarlet Letter
+
+| Source | Type |
+|---|---|
+| [The Morgan Library & Museum, Scarlet Letter title page](https://www.themorgan.org/literary-historical/104171) | Manuscript |
+| [Phillips Library, Peabody Essex Museum](https://pem.quartexcollections.com/collections/hawthorne-collection) | Archive |
+| [The House of the Seven Gables](https://7gables.org/salem-beyond/meet-hawthorne-and-friends/) | Historic site |
+| [Salem Custom House](https://www.nps.gov/places/custom-house.htm) | Historic site |
+| [The Old Manse](https://home.nps.gov/places/the-old-manse.htm) | Historic site |
+| [The Wayside](https://nps.gov/mima/learn/historyculture/thewayside.htm) | Historic site |
+| [Plimoth Patuxet Museums](https://www.plimoth.org/what-see-do/17th-century-english-village) | Museum |
+| [1850 first edition scans](https://archive.org/details/scarletletterrom01hawt) | First edition |
+| [LibriVox audiobook](https://librivox.org/the-scarlet-letter-by-nathaniel-hawthorne/) | Audio |
+| [The Scarlet Letter](https://www.gutenberg.org/ebooks/33) | Free text |
+
+## E18 · Macbeth
+
+| Source | Type |
+|---|---|
+| [The Bodleian First Folio](https://firstfolio.bodleian.ox.ac.uk/about.html) | First edition |
+| [Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/macbeth/) | Archive |
+| [Shakespeare's Birthplace](https://www.shakespeare.org.uk/visit/shakespeares-birthplace/) | Historic site |
+| [Shakespeare's Globe](https://www.shakespearesglobe.com/discover/shakespeares-plays/macbeth/) | Historic site |
+| [RSC Shakespeare Learning Zone](https://www.rsc.org.uk/shakespeare-learning-zone/macbeth/story/scene-by-scene) | Digital tour |
+| [Holinshed's Chronicles](https://shakespeare-navigators.ewu.edu/macbeth/Holinshed/index.html) | Archive |
+| [Glamis Castle](https://www.historichouses.org/house/glamis-castle/) | Historic site |
+| [Daemonologie, by King James](https://www.gutenberg.org/ebooks/25929) | Free text |
+| [LibriVox audiobook](https://librivox.org/the-tragedy-of-macbeth-by-william-shakespeare/) | Audio |
+| [Macbeth](https://www.gutenberg.org/ebooks/1533) | Free text |
+
+## E29 · Sense and Sensibility
+
+| Source | Type |
+|---|---|
+| [Jane Austen's House: first edition of *Sense and Sensibility*](https://janeaustens.house/object/sense-and-sensibility/) | Museum |
+| [1811 first edition scans](https://archive.org/details/sensesensibility131aust) | First edition |
+| [Chawton House: the collection](https://chawtonhouse.org/2020/04/curator-chawton-house-collection/) | Historic site |
+| [The Morgan Library & Museum: *A Lively Mind*](https://www.themorgan.org/exhibitions/lively-mind-jane-austen-250) | Museum |
+| [National Portrait Gallery: *Jane Austen* by Cassandra Austen](https://www.npg.org.uk/collections/search/portrait/mw00230) | Museum |
+| [Jane Austen Society of North America: *Sense and Sensibility*](https://jasna.org/austen/works/sense-sensibility/) | Archive |
+| [10 Virtual Tours for Lovers of Jane Austen](https://artsandculture.google.com/theme/10-virtual-tours-for-lovers-of-jane-austen/wALyslg9JF3OJA?hl=en) | Digital tour |
+| [Winchester Cathedral](https://www.winchester-cathedral.org.uk/hampshire-celebrates-250-years-of-jane-austen/) | Historic site |
+| [LibriVox audiobook](https://librivox.org/sense-and-sensibility-by-jane-austen/) | Audio |
+| [*Sense and Sensibility* (free text)](https://www.gutenberg.org/ebooks/161) | Free text |
+
+## E30 · Persuasion
+
+| Source | Type |
+|---|---|
+| [Jane Austen's Fiction Manuscripts: *Persuasion*](https://janeausten.ac.uk/edition/ms/PersuasionHeadNote.html) | Manuscript |
+| [British Library: Jane Austen at 250](https://www.bl.uk/stories/blogs/posts/jane-austen-at-250) | Archive |
+| [Jane Austen's House: first edition of *Northanger Abbey* and *Persuasion*](https://janeaustens.house/object/first-edition-northanger-abbey-and-persuasion/) | Museum |
+| [The Morgan Library & Museum: 1818 first edition](https://www.themorgan.org/printed-books/77558) | First edition |
+| [Lyme Regis and the Cobb](https://www.visit-dorset.com/lyme-regis/explore-discover/history-heritage/jane-austen/) | Historic site |
+| [Bath Assembly Rooms (National Trust)](https://www.nationaltrust.org.uk/visit/bath-bristol/bath-assembly-rooms/jane-austen-at-bath-assembly-rooms) | Historic site |
+| [Jane Austen Centre, Bath: Bath through Austen's eyes](https://janeausten.co.uk/blogs/from-the-jane-austen-centre/baths-persuasion) | Museum |
+| [Royal Museums Greenwich: Jane Austen and the Royal Navy](https://www.rmg.co.uk/stories/maritime-history/library-archive/jane-austen-royal-navy) | Museum |
+| [LibriVox audiobook](https://librivox.org/persuasion-by-jane-austen-2/) | Audio |
+| [*Persuasion* (free text)](https://www.gutenberg.org/ebooks/105) | Free text |
+
+## E31 · Mansfield Park
+
+| Source | Type |
+|---|---|
+| [Jane Austen's Fiction Manuscripts: *Opinions of Mansfield Park*](https://janeausten.ac.uk/edition/ms/OpinionsHeadNote.html) | Manuscript |
+| [Jane Austen's House, Chawton: *Mansfield Park*](https://janeaustens.house/jane-austen/novels/mansfield-park/) | Museum |
+| [Stoneleigh Abbey](https://www.stoneleighabbey.uk/) | Historic site |
+| [Portsmouth Historic Dockyard](https://historicdockyard.co.uk/) | Historic site |
+| [Royal Museums Greenwich: Jane Austen and the Royal Navy](https://www.rmg.co.uk/stories/maritime-history/library-archive/jane-austen-royal-navy) | Museum |
+| [*Lovers' Vows*, 1798](https://archive.org/download/loversvowsplayin00kotzuoft/loversvowsplayin00kotzuoft.pdf) | Archive |
+| [The Morgan Library & Museum: *A Woman's Wit*](https://www.themorgan.org/collection/a-womans-wit-jane-austen) | Digital tour |
+| [1814 first edition scans](https://archive.org/details/mansfieldparknov01aust) | First edition |
+| [LibriVox audiobook](https://librivox.org/mansfield-park-by-jane-austen/) | Audio |
+| [*Mansfield Park* (free text)](https://www.gutenberg.org/ebooks/141) | Free text |
+
+## E32 · Northanger Abbey
+
+| Source | Type |
+|---|---|
+| [The Morgan Library & Museum: Jane Austen's Letters](https://www.themorgan.org/collection/jane-austen/letters) | Manuscript |
+| [Jane Austen Centre, Bath](https://janeausten.co.uk/) | Museum |
+| [National Trust: Jane Austen at Bath Assembly Rooms](https://www.nationaltrust.org.uk/visit/bath-bristol/bath-assembly-rooms/jane-austen-at-bath-assembly-rooms) | Historic site |
+| [The Roman Baths and Pump Room](https://www.romanbaths.co.uk/) | Historic site |
+| [The Holburne Museum](https://www.holburne.org/) | Museum |
+| [Google Arts & Culture: 10 Virtual Tours for Lovers of Jane Austen](https://artsandculture.google.com/story/xQXxslg9JF3OJA) | Digital tour |
+| [British Library: Jane Austen and the very horrid *Northanger Abbey*](https://www.bl.uk/stories/blogs/posts/jane-austen-and-the-very-horrid-northanger-abbey) | Archive |
+| [1817 first edition scans](https://archive.org/details/northangerabbeyp141aust) | First edition |
+| [LibriVox audiobook](https://librivox.org/northanger-abbey-by-jane-austen/) | Audio |
+| [*Northanger Abbey* (free text)](https://www.gutenberg.org/ebooks/121) | Free text |

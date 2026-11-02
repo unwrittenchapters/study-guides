@@ -10,7 +10,7 @@ In Dracula, a ship drifts into Whitby harbour in a storm with fifty boxes of ear
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Dracula, by Bram Stoker. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Dracula, by Bram Stoker.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 *Dracula* is told in diaries, letters, telegrams and newspaper cuttings. It begins with a young English solicitor's clerk, Jonathan Harker, travelling to Transylvania to help Count Dracula buy a house in England, an old place called Carfax. At the castle, Jonathan slowly realises he's a prisoner.
 
 The Count sails to England on a Russian ship called the *Demeter*. It crashes onto the beach at Whitby in a storm, with its captain dead and tied to the wheel. A huge dog leaps ashore, and the cargo is fifty boxes of earth. Jonathan's fiancée, Mina Murray, is staying in Whitby with her friend Lucy Westenra, who begins to walk in her sleep and fall ill.
-
-Dr John Seward sends for his old teacher, Professor Abraham Van Helsing. With Lucy's friends, and with Mina's careful notes, they track down the boxes one by one and make them useless to the Count. In the end they follow him home to Transylvania.
 
 [upbeat]
 
@@ -106,7 +104,7 @@ Next, the big ideas, the ones that come up in class.
 
 [curious]
 
-**Careful noticing.** Mina wins by reading closely, making lists and checking facts. Our story shows that patience can be a kind of courage.
+**Careful noticing.** Mina wins by reading closely, making lists and checking facts. Her careful work shows that patience can be a kind of courage.
 
 **Stories inside stories.** The book is a pile of diaries, letters and news cuttings. Each writer knows only part of the truth until the pieces are put together.
 
@@ -114,21 +112,79 @@ Next, the big ideas, the ones that come up in class.
 
 **Teamwork.** No one in the book wins alone. The friends succeed by sharing what they know.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"I shall try to do what I see lady journalists do: interviewing and writing descriptions and trying to remember conversations."
+
+Mina plans to notice and record everything, and that's how the heroes win.
+
+[Quote card: 2]
+
+"Welcome to my house! Enter freely and of your own will!"
+
+The Count's famous greeting makes Jonathan choose to step inside.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Mina reads about the ship's strange log in the newspaper and decides to follow the clue?
 
-In our story, Mina reads the *Demeter*'s log in the newspaper and doesn't turn the page. She makes a list, visits the Whitby solicitor who took charge of the cargo, and learns that all fifty boxes are going by train to Carfax, the house Jonathan went abroad to sell, right next to Dr Seward's hospital.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · No one listens]
+
+Path A. She shares her worry, but no one listens, and the Count settles into Carfax unnoticed. It could happen: Lucy is ill, so the men are distracted. But Mina never lets a clue go.
+
+[Path card: B · She goes alone]
+
+Path B. She goes to Carfax on her own and walks straight into danger. It could happen: Mina is brave. But she's careful, not reckless.
+
+[Path card: C · She tracks the boxes]
+
+Path C. She makes a careful list, traces all fifty boxes, and brings the facts to Dr Seward and Van Helsing. This one fits the characters: Mina already types everyone's diaries into one record. Van Helsing trusts facts set out in order.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Stoker writes Mina as the most organised mind in the book. She types up everyone's diaries and spots the pattern the men miss.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, the men shut Mina out of the hunt to protect her, and the Count reaches her anyway. Then she becomes the key to tracking him, and they catch him at his castle just before sunset.
+
+[thoughtfully]
+
+Why did Bram Stoker choose it? Stoker shows that keeping Mina out was the mistake. The team only wins when they share everything, including her mind.
 
 [Beat.]
 
@@ -197,6 +253,8 @@ Dracula.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Mina Keeps Watch" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

@@ -47,7 +47,7 @@ The words are old, but you can already hear the voice of the book.
 
 ## Big ideas
 
-- **Memory.** Most of the book is Jim remembering. Our story asks what happens if he doesn't have to.
+- **Memory.** Most of the book is Jim remembering. A what-if asks what happens if he never has to.
 - **Immigrant life.** Cather shows families from many countries building new lives on hard land.
 - **Land and belonging.** The prairie shapes everyone who lives on it.
 - **Ordinary heroism.** Ántonia's courage is in daily work, not big adventures.

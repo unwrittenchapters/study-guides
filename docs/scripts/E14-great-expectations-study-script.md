@@ -10,7 +10,7 @@ A lawyer tells Pip that a secret stranger wants to make him a gentleman. This gu
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Great Expectations, by Charles Dickens. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Great Expectations, by Charles Dickens.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Pip, an orphan, is raised by his harsh sister and her gentle husband, Joe Gargery, the village blacksmith. On the marshes one Christmas Eve he's forced to help an escaped convict.
 
 He's sent to play at Satis House, where Miss Havisham sits in her old wedding dress with all the clocks stopped. Her proud ward, Estella, makes Pip ashamed of his coarse hands and his home.
-
-A lawyer, Mr Jaggers, announces that Pip has "great expectations" from a secret helper. Pip becomes a gentleman in London and neglects Joe. He learns that his helper is the convict, Magwitch, not Miss Havisham. He loses his fortune, and Joe nurses him back to health.
 
 [upbeat]
 
@@ -64,7 +62,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE FORGE]
 
@@ -134,23 +132,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Loyalty.** Joe never stops loving Pip.
 
-**Choosing your life.** Our version imagines Pip choosing the forge freely.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Choosing your life.** Pip has to learn which life is really his.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"It is a most miserable thing to feel ashamed of home."
+
+Pip's shame about home is the feeling the whole book turns on.
+
+[Quote card: 1]
+
+"Life is made of ever so many partings welded together."
+
+Joe describes life the way a blacksmith joins iron.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Pip sits on the forge step the night after Jaggers's news and stops being ashamed of home?
 
-In our story, Pip sits alone on the forge step the night after Jaggers's news and looks at his own rough hands. He isn't ashamed of them anymore.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · He goes to London]
+
+Path A. He goes to London anyway and grows ashamed of Joe, as he does in the book. It could happen: Pip dreams of becoming a gentleman for Estella. But tonight, he's not ashamed of home anymore.
+
+[Path card: B · He resents Joe]
+
+Path B. He turns down the money but blames Joe for it. It could happen: Pip blames others when he feels ashamed. But Joe has never given him a reason to.
+
+[Path card: C · He chooses the forge]
+
+Path C. He looks at his rough hands, isn't ashamed of them anymore, and chooses the forge. This one fits the characters: Joe has always been kind to Pip. Pip's shame came from Estella's words, not Joe's.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Dickens shows that Pip's best self is the boy who loves Joe. In the book, he learns that lesson only at the very end.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Pip goes to London and grows ashamed of Joe. His secret benefactor turns out to be Magwitch, the convict he helped as a boy, not Miss Havisham. Pip loses the money, falls ill, and Joe nurses him back to health.
+
+[thoughtfully]
+
+Why did Charles Dickens choose it? Dickens shows that money doesn't make a gentleman. Loyalty and kindness do.
 
 [Beat.]
 
@@ -219,6 +275,8 @@ Great Expectations.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Pip Stays at the Forge" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

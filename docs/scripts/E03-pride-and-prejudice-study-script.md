@@ -10,7 +10,7 @@ Elizabeth Bennet and Mr Darcy almost don't get together, because they judge each
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Pride and Prejudice, by Jane Austen. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Pride and Prejudice, by Jane Austen.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Mrs Bennet has five daughters and no sons, so the family home will go to a cousin when Mr Bennet dies. She badly wants her girls to marry well. When a rich young man, Mr Bingley, rents Netherfield Hall nearby, she gets very excited.
 
 Bingley falls for the eldest daughter, Jane. His proud friend Mr Darcy insults the second daughter, Elizabeth, at a ball, and she decides she dislikes him. A charming officer, Mr Wickham, tells her a false story about Darcy, and she believes it.
-
-Darcy proposes, and Elizabeth turns him down angrily. He writes her a letter explaining the truth about Wickham. Slowly each of them sees their own pride and prejudice, and when Darcy quietly saves her family from scandal, she realises she loves him.
 
 [upbeat]
 
@@ -126,23 +124,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Marriage and money.** Women in 1811 often couldn't inherit property, so marriage decided a woman's future.
 
-**Time to know someone.** Our version suggests that people often change their minds when they simply have more time together.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Time to know someone.** The book suggests that people often change their minds once they really get to know each other.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+
+Austen's joke. Really, it's families who want rich husbands for their daughters.
+
+[Quote card: 1]
+
+"My good opinion once lost, is lost for ever."
+
+Darcy admits he doesn't forgive easily. It's his pride, in his own words.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if the rain doesn't stop, and Elizabeth and Jane stay at Netherfield for more than a week?
 
-In the book, Jane falls ill at Netherfield and Elizabeth stays a few days to nurse her. In our story the rain doesn't stop, and they stay more than a week.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · The arguing gets worse]
+
+Path A. Elizabeth and Darcy keep arguing, and a week of rain only hardens their dislike. It could happen: Darcy's insult still stings, and Wickham's lies are still in her head. But a week together gives them time to test those first impressions.
+
+[Path card: B · Caroline keeps them apart]
+
+Path B. Caroline Bingley keeps them apart, so they never really talk. It could happen: Caroline wants Darcy for herself. But she can't guard them every hour of a long stay.
+
+[Path card: C · They really talk]
+
+Path C. With no ball to perform at, they talk properly in the library, and each starts to see past the first impression. This one fits the characters: Elizabeth loves to debate. Darcy talks more easily away from crowds.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Austen's characters change their minds when they get honest information, the way Darcy's letter changes Elizabeth. More time gives them that sooner.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, the sisters leave Netherfield after a few days, and Elizabeth's dislike of Darcy grows when Wickham lies to her. It takes a refused proposal and Darcy's honest letter before she sees him clearly. The book ends with Elizabeth and Darcy, and Jane and Bingley, happily married.
+
+[thoughtfully]
+
+Why did Jane Austen choose it? Austen takes the slower road so that both of them have to change. Darcy has to lose his pride, and Elizabeth has to stop judging so quickly.
 
 [Beat.]
 
@@ -211,6 +267,8 @@ Pride and Prejudice.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "A Longer Stay at Netherfield" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

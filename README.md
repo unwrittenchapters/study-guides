@@ -1,6 +1,6 @@
 # Unwritten Chapters · Study Guides
 
-**15 classic books. Cliff-notes study guides, short read-aloud study scripts, and 150 free sources from museums, archives and historic sites.**
+**22 classic books. Cliff-notes study guides, short read-aloud study scripts, and 220 free sources from museums, archives and historic sites.**
 
 Made for the *Unwritten Chapters* YouTube channel, where classic books get gentle "what-if" bedtime stories. These guides are the daytime companion: quick, clear and classroom-ready.
 
@@ -25,11 +25,17 @@ Made for the *Unwritten Chapters* YouTube channel, where classic books get gentl
 | [![E04](assets/thumbnails/E04-the-great-gatsby.png)](guides/E04-the-great-gatsby.md) | [![E05](assets/thumbnails/E05-moby-dick.png)](guides/E05-moby-dick.md) | [![E06](assets/thumbnails/E06-little-women.png)](guides/E06-little-women.md) |
 | **E04** [The Great Gatsby](guides/E04-the-great-gatsby.md) · [script](scripts/E04-the-great-gatsby-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E04) | **E05** [Moby-Dick](guides/E05-moby-dick.md) · [script](scripts/E05-moby-dick-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E05) | **E06** [Little Women](guides/E06-little-women.md) · [script](scripts/E06-little-women-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E06) |
 | [![E07](assets/thumbnails/E07-my-antonia.png)](guides/E07-my-antonia.md) | [![E08](assets/thumbnails/E08-a-christmas-carol.png)](guides/E08-a-christmas-carol.md) | [![E09](assets/thumbnails/E09-hound-of-the-baskervilles.png)](guides/E09-hound-of-the-baskervilles.md) |
-| **E07** [My Ántonia](guides/E07-my-antonia.md) · [script](scripts/E07-my-antonia-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E07) | **E08** [A Christmas Carol](guides/E08-a-christmas-carol.md) · [script](scripts/E08-a-christmas-carol-study-script.md) | **E09** [The Hound of the Baskervilles](guides/E09-hound-of-the-baskervilles.md) · [script](scripts/E09-hound-of-the-baskervilles-study-script.md) |
+| **E07** [My Ántonia](guides/E07-my-antonia.md) · [script](scripts/E07-my-antonia-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E07) | **E08** [A Christmas Carol](guides/E08-a-christmas-carol.md) · [script](scripts/E08-a-christmas-carol-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E08) | **E09** [The Hound of the Baskervilles](guides/E09-hound-of-the-baskervilles.md) · [script](scripts/E09-hound-of-the-baskervilles-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E09) |
 | [![E10](assets/thumbnails/E10-emma.png)](guides/E10-emma.md) | [![E11](assets/thumbnails/E11-jane-eyre.png)](guides/E11-jane-eyre.md) | [![E12](assets/thumbnails/E12-around-the-world-in-80-days.png)](guides/E12-around-the-world-in-80-days.md) |
-| **E10** [Emma](guides/E10-emma.md) · [script](scripts/E10-emma-study-script.md) | **E11** [Jane Eyre](guides/E11-jane-eyre.md) · [script](scripts/E11-jane-eyre-study-script.md) | **E12** [Around the World in Eighty Days](guides/E12-around-the-world-in-80-days.md) · [script](scripts/E12-around-the-world-in-80-days-study-script.md) |
+| **E10** [Emma](guides/E10-emma.md) · [script](scripts/E10-emma-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E10) | **E11** [Jane Eyre](guides/E11-jane-eyre.md) · [script](scripts/E11-jane-eyre-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E11) | **E12** [Around the World in Eighty Days](guides/E12-around-the-world-in-80-days.md) · [script](scripts/E12-around-the-world-in-80-days-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E12) |
 | [![E13](assets/thumbnails/E13-frankenstein.png)](guides/E13-frankenstein.md) | [![E14](assets/thumbnails/E14-great-expectations.png)](guides/E14-great-expectations.md) | [![E15](assets/thumbnails/E15-the-age-of-innocence.png)](guides/E15-the-age-of-innocence.md) |
-| **E13** [Frankenstein](guides/E13-frankenstein.md) · [script](scripts/E13-frankenstein-study-script.md) | **E14** [Great Expectations](guides/E14-great-expectations.md) · [script](scripts/E14-great-expectations-study-script.md) | **E15** [The Age of Innocence](guides/E15-the-age-of-innocence.md) · [script](scripts/E15-the-age-of-innocence-study-script.md) |
+| **E13** [Frankenstein](guides/E13-frankenstein.md) · [script](scripts/E13-frankenstein-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E13) | **E14** [Great Expectations](guides/E14-great-expectations.md) · [script](scripts/E14-great-expectations-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E14) | **E15** [The Age of Innocence](guides/E15-the-age-of-innocence.md) · [script](scripts/E15-the-age-of-innocence-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E15) |
+| [![E16](assets/thumbnails/E16-dr-jekyll-and-mr-hyde.png)](guides/E16-dr-jekyll-and-mr-hyde.md) | [![E17](assets/thumbnails/E17-the-scarlet-letter.png)](guides/E17-the-scarlet-letter.md) | [![E18](assets/thumbnails/E18-macbeth.png)](guides/E18-macbeth.md) |
+| **E16** [Dr Jekyll and Mr Hyde](guides/E16-dr-jekyll-and-mr-hyde.md) · [script](scripts/E16-dr-jekyll-and-mr-hyde-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E16) | **E17** [The Scarlet Letter](guides/E17-the-scarlet-letter.md) · [script](scripts/E17-the-scarlet-letter-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E17) | **E18** [Macbeth](guides/E18-macbeth.md) · [script](scripts/E18-macbeth-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E18) |
+| [![E29](assets/thumbnails/E29-sense-and-sensibility.png)](guides/E29-sense-and-sensibility.md) | [![E30](assets/thumbnails/E30-persuasion.png)](guides/E30-persuasion.md) | [![E31](assets/thumbnails/E31-mansfield-park.png)](guides/E31-mansfield-park.md) |
+| **E29** [Sense and Sensibility](guides/E29-sense-and-sensibility.md) · [script](scripts/E29-sense-and-sensibility-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E29) | **E30** [Persuasion](guides/E30-persuasion.md) · [script](scripts/E30-persuasion-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E30) | **E31** [Mansfield Park](guides/E31-mansfield-park.md) · [script](scripts/E31-mansfield-park-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E31) |
+| [![E32](assets/thumbnails/E32-northanger-abbey.png)](guides/E32-northanger-abbey.md) |
+| **E32** [Northanger Abbey](guides/E32-northanger-abbey.md) · [script](scripts/E32-northanger-abbey-study-script.md) · [video](https://www.youtube.com/watch?v=YOUTUBE_ID_E32) |
 
 ## Study Edition videos
 
@@ -37,13 +43,8 @@ Each Study Edition is an 8-bit video of about 8.5 minutes: the book in brief, ou
 
 | | Guide | Video | Captions |
 |---|---|---|---|
-| E01 | [Dracula](guides/E01-dracula.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E01) | [captions](captions/E01-dracula.srt) |
-| E02 | [Rip Van Winkle](guides/E02-rip-van-winkle.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E02) | [captions](captions/E02-rip-van-winkle.srt) |
-| E03 | [Pride and Prejudice](guides/E03-pride-and-prejudice.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E03) | [captions](captions/E03-pride-and-prejudice.srt) |
-| E04 | [The Great Gatsby](guides/E04-the-great-gatsby.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E04) | [captions](captions/E04-the-great-gatsby.srt) |
-| E05 | [Moby-Dick](guides/E05-moby-dick.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E05) | [captions](captions/E05-moby-dick.srt) |
-| E06 | [Little Women](guides/E06-little-women.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E06) | [captions](captions/E06-little-women.srt) |
-| E07 | [My Ántonia](guides/E07-my-antonia.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E07) | [captions](captions/E07-my-antonia.srt) |
+| E31 | [Mansfield Park](guides/E31-mansfield-park.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E31) | [captions](captions/E31-mansfield-park.srt) |
+| E32 | [Northanger Abbey](guides/E32-northanger-abbey.md) | [Watch](https://www.youtube.com/watch?v=YOUTUBE_ID_E32) | [captions](captions/E32-northanger-abbey.srt) |
 
 The video files live on YouTube, not in this repo. After uploading, add the IDs to `tools/links.json` and run `python3 tools/set_links.py`.
 
@@ -51,13 +52,13 @@ The video files live on YouTube, not in this repo. After uploading, add the IDs 
 
 | Folder | What's inside |
 |---|---|
-| `guides/` | 15 cliff-notes guides in Markdown, readable right here on GitHub |
-| `scripts/` | 15 Study Edition scripts, about 8.5 minutes each, written to be read aloud |
+| `guides/` | 22 cliff-notes guides in Markdown, readable right here on GitHub |
+| `scripts/` | 22 Study Edition scripts, about 8.5 minutes each, written to be read aloud |
 | `captions/` | English captions (.srt) for the published Study Edition videos |
 | `tools/set_links.py` | Fills in the YouTube video IDs after you upload |
 | `assets/thumbnails/` | 8-bit thumbnails, 1280 × 720, ready for YouTube |
 | `docs/` | The same guides as an 8-bit styled website for GitHub Pages |
-| `resources.md` | All 150 sources in one list |
+| `resources.md` | All 220 sources in one list |
 
 ## Publish the website
 

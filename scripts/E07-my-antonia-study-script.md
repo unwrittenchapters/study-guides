@@ -10,7 +10,7 @@ Jim Burden grows up on the Nebraska prairie, leaves for the city and spends his 
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through My Ántonia, by Willa Cather. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through My Ántonia, by Willa Cather.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Ten-year-old Jim Burden, an orphan from Virginia, comes to live with his grandparents in Nebraska. On the same train is the Shimerda family, newly arrived from Bohemia, including a girl named Ántonia.
 
 Jim teaches Ántonia English. Her family struggles through hard winters, and her father dies. As they grow up, Ántonia works in the fields and later as a hired girl in the town of Black Hawk.
-
-Jim leaves for university and becomes a railroad lawyer in New York. Twenty years later he visits Ántonia, now married with many children on her own farm, and realises they share a past nobody else can understand.
 
 [upbeat]
 
@@ -112,7 +110,7 @@ Next, the big ideas, the ones that come up in class.
 
 [curious]
 
-**Memory.** Most of the book is Jim remembering. Our story asks what happens if he doesn't have to.
+**Memory.** Most of the book is Jim remembering. A what-if asks what happens if he never has to.
 
 **Immigrant life.** Cather shows families from many countries building new lives on hard land.
 
@@ -120,21 +118,79 @@ Next, the big ideas, the ones that come up in class.
 
 **Ordinary heroism.** Ántonia's courage is in daily work, not big adventures.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"There seemed to be nothing to see; no fences, no creeks or trees, no hills or fields."
+
+Jim's first sight of the open prairie, empty and huge.
+
+[Quote card: 2]
+
+"Whatever we had missed, we possessed together the precious, the incommunicable past."
+
+The last line. Jim and Ántonia share a past no one else can understand.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Jim gives up his train ticket and stays on the prairie?
 
-In our story, Jim gives up his train ticket and stays. He becomes the teacher at the little sod schoolhouse, teaching immigrant children English the way he once taught Ántonia.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · He feels stuck]
+
+Path A. He stays, but feels he's wasted his chance at an education. It could happen: Jim is clever and ambitious. But teaching uses his education every day.
+
+[Path card: B · He leaves later]
+
+Path B. He leaves anyway a year later, just as he does in the book. It could happen: In the book, he leaves for university and becomes a lawyer. But here, he's already given up his ticket.
+
+[Path card: C · He becomes the teacher]
+
+Path C. He becomes the teacher at the sod schoolhouse, and teaches immigrant children English the way he once taught Ántonia. This one fits the characters: Jim's happiest memories are on the prairie. He already taught Ántonia to read English.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Cather's Jim is happiest on the prairie, teaching Ántonia English, and his memories keep pulling him back there.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Jim leaves for university and becomes a lawyer in New York. Twenty years later he visits Ántonia, now a farmer's wife with a big, happy family.
+
+[thoughtfully]
+
+Why did Willa Cather choose it? Cather shows how memory works. Jim's best years live on in his mind, while Ántonia builds a full life on the land he left.
 
 [Beat.]
 
@@ -203,6 +259,8 @@ My Ántonia.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Jim Stays on the Prairie" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

@@ -10,6 +10,7 @@
 | **Setting** | Highbury, a village in Surrey, England |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/158) |
 | **Study script** | [Read-aloud script](../scripts/E10-emma-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E10) · [captions](../captions/E10-emma.srt) |
 
 > Emma Woodhouse thinks she knows best about everyone's heart. This guide covers Austen's comedy and a version where Emma listens to Mr Knightley.
 

@@ -50,7 +50,7 @@ The words are old, but you can already hear the voice of the book.
 
 - **Obsession.** Ahab can't let go of his anger at the whale. It pushes everything else out of his life.
 - **Home.** Starbuck keeps thinking of his wife and son. The calm chapter "The Symphony" shows Ahab remembering home too.
-- **Choice.** In the book, Ahab says he can't stop. Our story asks what happens if he chooses differently.
+- **Choice.** In the book, Ahab says he can't stop. A what-if asks what happens if he chooses differently.
 - **The size of the sea.** Melville fills the book with facts about whales and oceans to show how huge and mysterious the natural world is.
 
 ## Key quotes

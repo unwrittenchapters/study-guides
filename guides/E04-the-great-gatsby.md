@@ -53,7 +53,7 @@ The words are old, but you can already hear the voice of the book.
 - **The past.** Gatsby believes you can repeat the past. The book suggests you can't.
 - **The American Dream.** Gatsby rebuilt himself from nothing. Fitzgerald asks whether money can buy what he really wants.
 - **Appearances.** The parties, the shirts and the mansion are all part of a show.
-- **Letting go.** Our version imagines Gatsby choosing to stop reaching for the green light.
+- **Letting go.** The book asks whether Gatsby could ever stop reaching for the green light.
 
 ## Key quotes
 

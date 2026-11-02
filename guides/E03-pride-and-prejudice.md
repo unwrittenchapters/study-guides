@@ -52,7 +52,7 @@ The words are old, but you can already hear the voice of the book.
 - **First impressions.** Austen's first title for the book was *First Impressions*. Both main characters judge too quickly.
 - **Pride and prejudice.** Darcy's pride and Elizabeth's prejudice both get in the way. Each has a bit of both.
 - **Marriage and money.** Women in 1811 often couldn't inherit property, so marriage decided a woman's future.
-- **Time to know someone.** Our version suggests that people often change their minds when they simply have more time together.
+- **Time to know someone.** The book suggests that people often change their minds once they really get to know each other.
 
 ## Key quotes
 

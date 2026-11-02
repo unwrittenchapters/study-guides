@@ -10,6 +10,7 @@
 | **Setting** | Lowood School, northern England, early 1800s |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/1260) |
 | **Study script** | [Read-aloud script](../scripts/E11-jane-eyre-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E11) · [captions](../captions/E11-jane-eyre.srt) |
 
 > At a cold charity school, young Jane Eyre finds her first true friend, Helen Burns, and then loses her. This guide covers the novel and a version where Helen gets well.
 
@@ -56,7 +57,7 @@ The words are old, but you can already hear the voice of the book.
 - **Independence.** Jane insists on being treated as a free, equal person.
 - **Forgiveness.** Helen teaches Jane that life is too short for grudges.
 - **Cruelty and kindness.** Lowood shows both, Brocklehurst's coldness and Miss Temple's care.
-- **Friendship.** Our story imagines what a lifelong friend could have meant to Jane.
+- **Friendship.** Helen shows what one true friend can mean to Jane.
 
 ## Key quotes
 

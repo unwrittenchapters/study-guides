@@ -10,7 +10,7 @@ Emma Woodhouse thinks she knows best about everyone's heart. This guide covers A
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Emma, by Jane Austen. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Emma, by Jane Austen.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Emma Woodhouse is clever, rich and sure she's a brilliant matchmaker. After her governess marries Mr Weston, Emma takes up a sweet, shy friend, Harriet Smith.
 
 Harriet is loved by Robert Martin, a decent young farmer. Emma talks her out of his proposal, hoping she'll marry the vicar, Mr Elton. But Elton wants Emma, and Emma's schemes keep going wrong.
-
-Her old friend Mr Knightley is the only person who tells her when she's wrong. After she's cruel to poor Miss Bates, his scolding helps her grow up. Harriet marries Robert Martin after all, and Emma realises she loves Mr Knightley.
 
 [upbeat]
 
@@ -60,7 +58,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE MATCHMAKER]
 
@@ -138,21 +136,79 @@ Next, the big ideas, the ones that come up in class.
 
 **Honest friendship.** Mr Knightley shows that a true friend tells you the truth.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her."
+
+The opening line. Emma has had an easy life, maybe too easy.
+
+[Quote card: 1]
+
+"If I loved you less, I might be able to talk about it more."
+
+Mr Knightley's feelings are too big for clever speeches.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Emma remembers Mr Knightley's words just as Harriet hands her Robert Martin's letter?
 
-In our story, Emma remembers Mr Knightley's words just as Harriet hands her the letter. For the first time, she asks Harriet what *she* wants.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · Emma talks her out of it]
+
+Path A. Emma still talks Harriet out of saying yes. It could happen: Emma thinks Harriet deserves a gentleman. But she's just remembered Mr Knightley's warning.
+
+[Path card: B · Emma stays silent]
+
+Path B. Emma says nothing, and Harriet decides alone. It could happen: Harriet relies on Emma's opinion. But Harriet won't decide without asking Emma.
+
+[Path card: C · Emma listens]
+
+Path C. Emma asks Harriet what she really wants, and Harriet says yes to Robert Martin. This one fits the characters: Mr Knightley told Emma that Robert Martin is a good man. Harriet already likes him.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. By the end of the book, Austen shows Emma learning to listen. This moment teaches her that lesson early.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Emma talks Harriet into refusing Robert Martin. Her matchmaking goes wrong again and again, until she realises she loves Mr Knightley herself. Harriet does marry Robert Martin in the end.
+
+[thoughtfully]
+
+Why did Jane Austen choose it? Austen lets Emma learn from her own mistakes. The book is about a clever young woman learning to see people clearly.
 
 [Beat.]
 
@@ -221,6 +277,8 @@ Emma.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Emma Listens" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

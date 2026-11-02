@@ -10,7 +10,7 @@ Before the ghosts change Scrooge, there's a freezing clerk with one coal on his 
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through A Christmas Carol, by Charles Dickens. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through A Christmas Carol, by Charles Dickens.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Ebenezer Scrooge is a mean, rich moneylender. On Christmas Eve he refuses to give to charity and barely lets his clerk, Bob Cratchit, have the day off.
 
 That night the ghost of his old partner, Jacob Marley, warns him to change. Three spirits then visit. The Ghost of Christmas Past shows him his lonely childhood. The Ghost of Christmas Present shows him the poor but happy Cratchit family and their sick son, Tiny Tim. The Ghost of Christmas Yet to Come shows him his own lonely death.
-
-Scrooge wakes on Christmas morning a changed man. He sends the Cratchits a huge turkey, raises Bob's salary, and becomes a second father to Tiny Tim.
 
 [upbeat]
 
@@ -60,7 +58,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: ONE COAL]
 
@@ -124,25 +122,83 @@ Next, the big ideas, the ones that come up in class.
 
 **Poverty.** The Cratchits show how hard life was for working families in 1840s London.
 
-**Small kindnesses.** Our story shows a big change starting with one coal.
+**Small kindnesses.** Dickens shows that big changes can start with small acts.
 
 **Generosity.** Scrooge's change is shown in what he gives.
 
+[Beat. Music sting.]
+
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"Bah! Humbug!"
+
+Scrooge's famous way of dismissing Christmas, and everything kind.
+
+[Quote card: 2]
+
+"I will honour Christmas in my heart, and try to keep it all the year."
+
+Scrooge's promise to change, which is the whole point of the story.
+
 [upbeat]
 
-Next, the exact moment our version changes the book.
-
-[Beat. Music sting.]
+Next, let's explore a what-if.
 
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Bob stays late to finish the books, and Scrooge comes back for his scarf?
 
-In our story, Bob stays late to finish the books, and Scrooge comes back for his scarf. Without a kind word, Scrooge adds one coal to Bob's fire and hears about Tim for the first time.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · Scrooge scolds him]
+
+Path A. Scrooge scolds him for wasting coal and storms out. It could happen: Scrooge hates waste, especially coal. But Bob is staying late to finish Scrooge's own work.
+
+[Path card: B · Scrooge ignores him]
+
+Path B. Scrooge takes his scarf without a word and walks out. It could happen: Scrooge avoids people whenever he can. But he has to walk right past Bob's desk.
+
+[Path card: C · One more coal]
+
+Path C. Without a kind word, Scrooge adds one coal to Bob's fire and hears about Tiny Tim for the first time. This one fits the characters: The ghosts change Scrooge by showing him real lives. Bob talks about Tim with love, not complaint.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Dickens shows that Scrooge's heart can still be reached when he sees real people's lives. Hearing about Tim face to face does that quietly.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Scrooge grudgingly gives Bob Christmas Day off. That night three spirits visit him. The next morning he's a changed man. He sends the Cratchits a prize turkey, raises Bob's salary, and becomes a second father to Tiny Tim, who does not die.
+
+[thoughtfully]
+
+Why did Charles Dickens choose it? Dickens wanted readers to see those who are impoverished as real people, and to believe that anyone can change.
 
 [Beat.]
 
@@ -211,6 +267,8 @@ A Christmas Carol.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "Bob Stays Late" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

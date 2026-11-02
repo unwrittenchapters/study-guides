@@ -10,7 +10,7 @@ A legend says a giant hound hunts the Baskerville family. This guide covers the 
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Hound of the Baskervilles, by Arthur Conan Doyle. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through The Hound of the Baskervilles, by Arthur Conan Doyle.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Dr Mortimer brings Holmes and Watson an old legend. A wicked Baskerville was once killed by a hellish hound, and the family has been cursed ever since. Sir Charles Baskerville has just died of fright, and giant paw prints were found near his body.
 
 Watson goes to Dartmoor with the new heir, Sir Henry, while Holmes secretly watches from a stone hut. They meet the naturalist Stapleton and his sister, and the dangerous Grimpen Mire.
-
-Holmes discovers that Stapleton is a hidden Baskerville heir who painted a huge dog with phosphorus to look like the legendary hound. On a foggy night the dog attacks Sir Henry, Holmes shoots it, and Stapleton vanishes into the mire.
 
 [upbeat]
 
@@ -60,7 +58,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE WALKING STICK]
 
@@ -124,23 +122,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Place.** Dartmoor's mist, mires and tors make the story feel dangerous.
 
-**Kindness.** Our version shows the "monster" was a victim too.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**Kindness.** In the book, the hound is half-starved, so the "monster" is a victim too.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 1]
+
+"The world is full of obvious things which nobody by any chance ever observes."
+
+Holmes's rule. The answer is often right in front of you.
+
+[Quote card: 0]
+
+"Mr. Holmes, they were the footprints of a gigantic hound!"
+
+Dr Mortimer's line that starts the mystery.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Holmes goes out on the moor himself, alone, at dusk?
 
-In our story, Holmes goes to the moor himself and walks out alone at dusk. He follows the wandering paw prints around the mire to an old tin mine, where the dog lies chained and starving.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · Lost in the fog]
+
+Path A. He's caught by the fog and the mire. It could happen: The Grimpen Mire is deadly, and the fog rolls in fast. But Holmes never goes anywhere unprepared.
+
+[Path card: B · He hides and waits]
+
+Path B. He hides and waits, as he does in the book, while Watson reports. It could happen: In the book, Holmes hides on the moor in secret. But here, he wants to see the evidence for himself.
+
+[Path card: C · He follows the prints]
+
+Path C. He follows the paw prints around the mire to an old tin mine and finds the hound chained and starving. This one fits the characters: Holmes trusts tracks and evidence over legend. A real dog needs food and a hiding place.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Doyle's Holmes trusts evidence over legend. Footprints are exactly the kind of clue he'd follow.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Holmes hides on the moor in secret while Watson thinks he's in London. The hound turns out to be a huge dog painted with glowing phosphorus, kept by Stapleton, a hidden heir. Holmes shoots it, and Stapleton disappears into the mire.
+
+[thoughtfully]
+
+Why did Arthur Conan Doyle choose it? Doyle shows that even the scariest legend has a rational explanation.
 
 [Beat.]
 
@@ -209,6 +265,8 @@ The Hound of the Baskervilles.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "The Hound on the Moor" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

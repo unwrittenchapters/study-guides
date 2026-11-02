@@ -10,6 +10,7 @@
 | **Setting** | New York in the 1870s, and Paris about thirty years later |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/541) |
 | **Study script** | [Read-aloud script](../scripts/E15-the-age-of-innocence-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E15) · [captions](../captions/E15-the-age-of-innocence.srt) |
 
 > Thirty years after he last saw her, Newland Archer sits below Ellen Olenska's window in Paris and decides not to go up. This guide covers the Pulitzer-winning novel and a version where he does.
 
@@ -51,7 +52,7 @@ The words are old, but you can already hear the voice of the book.
 - **Duty and desire.** Newland must choose between what he wants and what's expected.
 - **Rules of society.** Old New York punishes anyone who breaks its code.
 - **Change over time.** The world of the 1870s fades into telephones and motor cars.
-- **Second chances.** Our story imagines a door left open.
+- **Second chances.** The ending asks whether it's ever too late.
 
 ## Key quotes
 

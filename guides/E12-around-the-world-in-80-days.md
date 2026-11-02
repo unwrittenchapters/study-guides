@@ -10,6 +10,7 @@
 | **Setting** | London and around the world, October to December 1872 |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/103) |
 | **Study script** | [Read-aloud script](../scripts/E12-around-the-world-in-80-days-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E12) · [captions](../captions/E12-around-the-world-in-80-days.srt) |
 
 > Phileas Fogg bets his fortune he can circle the globe in eighty days. This guide covers the novel and a version where, with forty minutes left, he chooses to be late.
 
@@ -51,7 +52,7 @@ The words are old, but you can already hear the voice of the book.
 - **Time.** Fogg measures every minute, until he decides some things matter more.
 - **Technology.** Verne celebrates the new railways and steamships that shrank the world.
 - **Character beneath the surface.** Aouda sees Fogg's kindness under his calm.
-- **What's worth winning.** Verne asks whether the trip was worth it. Our story answers differently.
+- **What's worth winning.** Verne asks whether the trip was worth it. His answer is Aouda.
 
 ## Key quotes
 

@@ -10,6 +10,7 @@
 | **Setting** | London and Dartmoor, Devon |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/2852) |
 | **Study script** | [Read-aloud script](../scripts/E09-hound-of-the-baskervilles-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E09) · [captions](../captions/E09-hound-of-the-baskervilles.srt) |
 
 > A legend says a giant hound hunts the Baskerville family. This guide covers the most famous Holmes novel and a version where the hound turns out to be a frightened, hungry dog.
 
@@ -60,7 +61,7 @@ The words are old, but you can already hear the voice of the book.
 - **Science against superstition.** Holmes proves there's a natural explanation behind the legend.
 - **Noticing.** Holmes sees what others overlook.
 - **Place.** Dartmoor's mist, mires and tors make the story feel dangerous.
-- **Kindness.** Our version shows the "monster" was a victim too.
+- **Kindness.** In the book, the hound is half-starved, so the "monster" is a victim too.
 
 ## Key quotes
 

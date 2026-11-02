@@ -10,7 +10,7 @@ Phileas Fogg bets his fortune he can circle the globe in eighty days. This guide
 
 [energetic]
 
-Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Around the World in Eighty Days, by Jules Verne. It's a quick guide you can use for class, a book club, or your own curiosity. The full guide, with ten museum and archive sources, is linked below.
+Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minutes, I'll walk you through Around the World in Eighty Days, by Jules Verne.
 
 [Beat.]
 
@@ -23,8 +23,6 @@ Hello, and welcome to *Unwritten Chapters*, Study Edition. In the next few minut
 Phileas Fogg is an exact, wealthy London gentleman. At the Reform Club he bets twenty thousand pounds that he can travel round the world in eighty days. He leaves that night with his new French servant, Passepartout.
 
 A detective named Fix, who thinks Fogg robbed the Bank of England, follows them. In India, Fogg rescues a young woman named Aouda. They cross the world by steamship, train, elephant and sledge, and when the coal runs out on the Atlantic, Fogg burns his ship's wooden parts.
-
-Fix arrests Fogg in Liverpool, and he reaches London five minutes late. Ruined, he and Aouda agree to marry. Then Passepartout discovers they gained a day by travelling east, and Fogg races to the club and wins.
 
 [upbeat]
 
@@ -56,7 +54,7 @@ Next, who's who, so you can keep everyone straight.
 
 [storytelling, warm but lively]
 
-Now for the story. Here's how our version unfolds, chapter by chapter.
+Now for the story. Here's how it unfolds, chapter by chapter.
 
 [Chapter card flips in: THE WAGER]
 
@@ -126,23 +124,81 @@ Next, the big ideas, the ones that come up in class.
 
 **Character beneath the surface.** Aouda sees Fogg's kindness under his calm.
 
-**What's worth winning.** Verne asks whether the trip was worth it. Our story answers differently.
-
-[upbeat]
-
-Next, the exact moment our version changes the book.
+**What's worth winning.** Verne asks whether the trip was worth it. His answer is Aouda.
 
 [Beat. Music sting.]
 
+## Key quotes
+
+[with feeling]
+
+Here are two lines worth quoting in an essay.
+
+[Quote card: 0]
+
+"I will bet twenty thousand pounds against anyone who wishes, that I will make the tour of the world in eighty days or less."
+
+The famous wager that starts the race.
+
+[Quote card: 1]
+
+"Truly, would you not for less than that make the tour around the world?"
+
+Verne's closing question. Fogg gained Aouda, and that was worth more than any bet.
+
+[upbeat]
+
+Next, let's explore a what-if.
+
 ## Our what-if
 
-[excited]
+[curious]
 
-So what's the what-if? Here's the turning point we changed.
+In an alternative scenario, what if Fogg learns he has only forty minutes left, and calmly asks for tea?
 
-In our story, Fogg learns he has forty minutes left, then closes his watch, turns it to the wall, and asks for tea.
+[thoughtful]
 
-Everything after that moment is new, but the characters still act the way their authors wrote them.
+So what could have happened?
+
+[Path card: A · A race too late]
+
+Path A. He races across London and arrives seconds too late. It could happen: Fogg could still try to make it. But rushing isn't his style. He plans everything to the minute.
+
+[Path card: B · He gives up]
+
+Path B. He falls into despair and shuts himself away. It could happen: He's spent almost all his fortune on the journey. But Fogg never shows despair, and Aouda believes in him.
+
+[Path card: C · Tea with Aouda]
+
+Path C. He closes his watch, turns it to the wall, and has tea with Aouda, at peace. This one fits the characters: Fogg stays calm through every delay. He has grown to care for Aouda.
+
+[Pick card]
+
+[playfully]
+
+Which would you pick? Pause and decide, then see if you agree.
+
+[Beat.]
+
+[Verdict card]
+
+[warmly, with confidence]
+
+The verdict: Path C. Verne's Fogg never hurries and never panics. Calm is his whole character.
+
+[Beat.]
+
+## The real ending
+
+[clearly, storytelling]
+
+So what actually happens in the book?
+
+In the book, Fogg believes he's lost by five minutes. Then Passepartout discovers they've gained a whole day by travelling east. Fogg reaches the Reform Club just in time, wins the bet, and marries Aouda.
+
+[thoughtfully]
+
+Why did Jules Verne choose it? Verne shows that even perfect planning can miss something as simple as the date, and that the real prize of the journey was Aouda.
 
 [Beat.]
 
@@ -211,6 +267,8 @@ Around the World in Eighty Days.
 
 [warmly, upbeat]
 
-And if you'd like to hear the full story, the two-hour sleep version of "The Eighty-First Day" is on the channel. Thanks for studying with *Unwritten Chapters*. See you in the next one!
+What book do you want to see next? We'd love to know, and we read every comment.
+
+And if you want another video like this one, check it out here. Thanks for studying with Unwritten Chapters.
 
 [Sound logo. End card with the next study guide.]

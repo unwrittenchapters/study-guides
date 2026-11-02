@@ -54,10 +54,10 @@ The words are old, but you can already hear the voice of the book.
 
 ## Big ideas
 
-- **Liberty.** Jo fears that marriage will take her freedom. The book and our story answer that fear differently.
+- **Liberty.** Jo fears that marriage will take her freedom. The book answers that fear in a surprising way.
 - **Work and art.** Jo writes for money and for love, and must decide which stories are true to her.
 - **Family.** The March home is poor but full of warmth.
-- **Choices.** Our story suggests there are many good lives, and the right one is the one that's yours.
+- **Choices.** The book suggests there are many good lives, and the right one is the one that's yours.
 
 ## Key quotes
 

@@ -10,6 +10,7 @@
 | **Setting** | London, Christmas Eve and Christmas Day |
 | **Free text** | [Project Gutenberg](https://www.gutenberg.org/ebooks/46) |
 | **Study script** | [Read-aloud script](../scripts/E08-a-christmas-carol-study-script.md) |
+| **Video** | [Watch the 8.5-minute Study Edition](https://www.youtube.com/watch?v=YOUTUBE_ID_E08) · [captions](../captions/E08-a-christmas-carol.srt) |
 
 > Before the ghosts change Scrooge, there's a freezing clerk with one coal on his fire. This guide covers the story and a version where a small kindness comes first.
 
@@ -53,7 +54,7 @@ The words are old, but you can already hear the voice of the book.
 
 - **Change.** Dickens believed anyone could change, even Scrooge.
 - **Poverty.** The Cratchits show how hard life was for working families in 1840s London.
-- **Small kindnesses.** Our story shows a big change starting with one coal.
+- **Small kindnesses.** Dickens shows that big changes can start with small acts.
 - **Generosity.** Scrooge's change is shown in what he gives.
 
 ## Key quotes
