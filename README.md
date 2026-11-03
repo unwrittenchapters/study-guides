@@ -80,4 +80,4 @@ Guides, scripts and thumbnails: [CC BY 4.0](https://creativecommons.org/licenses
 
 ## Newsletter
 
-Get new study guides and Study Editions by email: [subscribe on beehiiv](NEWSLETTER_URL). Free, and you can unsubscribe any time.
+Get new study guides and Study Editions by email: [subscribe on beehiiv](https://lequannes-newsletter.beehiiv.com/subscribe). Free, and you can unsubscribe any time.
