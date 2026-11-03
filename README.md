@@ -77,3 +77,7 @@ Midnight `#16122B` · Dusk `#4A3F78` · Vellum `#F3E6C4` · Ember `#E8743B` · M
 ## License
 
 Guides, scripts and thumbnails: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Teachers may copy, adapt and share them with credit to *Unwritten Chapters*. All book quotations come from public-domain texts.
+
+## Newsletter
+
+Get new study guides and Study Editions by email: [subscribe on beehiiv](NEWSLETTER_URL). Free, and you can unsubscribe any time.

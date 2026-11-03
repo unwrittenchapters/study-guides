@@ -30,5 +30,10 @@ th{font-family:'VT323',monospace;font-size:22px;color:var(--moss);font-weight:no
 .lead{font-size:20px;background:var(--card);border:4px dashed var(--dusk);padding:16px}
 .box{background:var(--card);border:4px solid var(--moss);padding:16px}
 footer{margin-top:48px;border-top:4px solid var(--dusk);padding-top:12px;font-size:15px;opacity:.85}
+.newsletter{margin-top:40px;border-color:var(--ember)}
+.newsletter h2.nl{margin:0 0 8px;border:0;padding:0}
+.newsletter p{margin:0 0 14px}
+.btn{display:inline-block;font-family:'VT323',monospace;font-size:26px;background:var(--ember);color:var(--midnight);padding:4px 16px;text-decoration:none;box-shadow:4px 4px 0 var(--dusk)}
+.btn:hover{background:var(--vellum);color:var(--midnight)}
 @media (max-width:600px){h1{font-size:42px}.facts{grid-template-columns:1fr}table{font-size:14px}}
-@media print{body{background:#fff;color:#000}a{color:#000}.hero img{box-shadow:none}h1,h2{color:#000}}
+@media print{.newsletter,nav{display:none}body{background:#fff;color:#000}a{color:#000}.hero img{box-shadow:none}h1,h2{color:#000}}
